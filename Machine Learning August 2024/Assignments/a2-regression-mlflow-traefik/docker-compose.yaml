@@ -1,0 +1,41 @@
+version: '3.9'
+
+services:
+  fastapi:
+    # This is for that asking the container to execute the main.py
+    command: python3 main.py
+    # The image I upload to my docker hub
+    image: eracod1ng/ait-ml-fastapi:latest
+    # For MAC M1 user
+    platform: linux/x86_64
+    # This will ask DASH to run on 0.0.0.0 and port 80
+    environment:
+      - HOST=0.0.0.0
+      - PORT=80
+    # This is important for asking Traefik to use your container.
+    labels:
+      # Allow Traefik to talk with your service
+      - traefik.enable=true
+
+      # Define the load balancer port to use (80 for FastAPI)
+      - traefik.http.services.fastapi-st125457.loadbalancer.server.port=80
+
+      # Set your subdomain configuration with Traefik
+      - traefik.http.routers.fastapi-st125457.rule=Host(`fastapi-st125457.ml2023.cs.ait.ac.th`)
+
+      # Enable SSL and set the certificate resolver
+      - traefik.http.routers.fastapi-st125457.tls=true
+      - traefik.http.routers.fastapi-st125457.tls.certresolver=production
+
+      # Define the entry point to use secure web traffic
+      - traefik.http.routers.fastapi-st125457.entrypoints=websecure
+    # This define network. You would need to keep it like this.
+    networks:
+      - default
+      - traefik_default
+
+# Keep it like this too.
+networks:
+  default:
+  traefik_default:
+    external: true
