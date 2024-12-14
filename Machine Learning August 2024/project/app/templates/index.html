@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+
+
+<div class="container text-center mt-5">
+    <h1 class="mb-4">Welcome to Easy Credit Eligibility Checker</h1>
+    <p class="lead">Check your eligibility for credit in just a few steps!</p>
+    <a href="{% url 'predictor:detect' %}" class="btn btn-primary btn-lg mt-3">Get Started</a>
+</div>
+
+<footer class="footer mt-5 bg-light text-center py-3">
+    <span>© 2024 ECEC - All Rights Reserved</span>
+</footer>
+{% endblock %}

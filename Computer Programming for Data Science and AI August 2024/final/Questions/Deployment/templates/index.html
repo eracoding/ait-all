@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Diabetes Predictor</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+
+    <h1><center>Diabetes Prediction</center></h1>
+    <form id="myform" method="POST">
+        <label for="gender">Gender:</label><br>
+        <select name="gender" id="gender">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </select><br><br>
+
+        <input type="number" name="age" placeholder="Enter Age"><br><br>
+        <label for="hypertension">Hypertension:</label><br>
+        <select name="hypertension" id="hypertension">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select><br><br>
+
+        <label for="heart_disease">Heart Disease:</label><br>
+        <select name="heart_disease" id="heart_disease">
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select><br><br>
+
+        <label for="smoking_history">Smoking History:</label><br>
+        <select name="smoking_history" id="smoking_history">
+            <option value="never">Never</option>
+            <option value="former">Former</option>
+            <option value="current">Current</option>
+            <option value="unknown">Unknown</option>
+        </select><br><br>
+
+        <input type="number" step="0.01" name="bmi" placeholder="Enter BMI"><br><br>
+        <input type="number" step="0.1" name="HbA1c_level" placeholder="Enter HbA1c Level"><br><br>
+        <input type="number" name="blood_glucose_level" placeholder="Enter Blood Glucose Level"><br><br>
+    </form>
+    <button id="predict">Predict</button>
+    <h2 id="result"></h2>
+
+</body>
+</html>
+
+<script type="text/javascript">
+$(function() {
+    $('#predict').click(function(event) {
+        event.preventDefault();
+        var form_data = new FormData($('#myform')[0]);
+        $.ajax({
+            type: 'POST',
+            url: '/predict',
+            data: form_data,
+            contentType: false,
+            processData: false,
+        })
+        .done(function(data, textStatus, jqXHR) {
+            $('#result').text(data);
+        })
+        .fail(function(data) {
+            alert('Error!');
+        });
+    });
+});
+</script>

@@ -1,0 +1,12 @@
+services:
+    django:
+      build: .
+      volumes:
+        - .:/app
+      image: archx64ait/easy-credit-eligibility-checker
+      expose:
+        - 8000
+        - 80
+      # image: application:django
+      container_name: easy-credit-eligibility-checker
+      command: bash -c 'gunicorn --bind 0.0.0.0:8000 ECEC.wsgi:application'

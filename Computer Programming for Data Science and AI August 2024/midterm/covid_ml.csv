@@ -1,0 +1,862 @@
+ID,age,sex,cough,fever,chills,sore_throat,headache,fatigue,urgency_of_admission,days_onset_to_admission,symptoms,geo_resolution
+1,30,male,No,No,No,No,No,No,Low,2,NA,admin3
+2,47,male,No,No,No,No,No,No,Low,11,NA,admin3
+3,49,male,No,No,No,No,No,No,Low,5,NA,point
+4,47,female,No,No,No,No,No,No,Low,3,NA,point
+5,50,female,No,No,No,No,No,No,Low,11,NA,admin3
+7,42,female,No,Yes,No,No,No,No,High,0,fever,admin2
+9,59,female,No,Yes,No,No,No,No,Low,5,fever,admin2
+10,30,male,No,No,No,No,No,No,Low,5,NA,admin2
+14,38,female,Yes,No,No,No,No,No,High,0,cough,admin2
+15,45,male,No,Yes,No,No,No,No,High,0,fever,admin2
+19a,NA,female,No,Yes,No,No,Yes,Yes,High,0,"fatigue, fever, headache",admin3
+24,45,male,No,Yes,No,No,No,No,Low,2,fever,admin3
+25,45,male,No,Yes,No,No,No,No,Low,2,fever,admin3
+28,42,male,No,Yes,No,No,No,No,High,0,fever,admin3
+38,44,male,No,No,No,No,No,No,Low,4,NA,admin1
+39,65,male,No,No,No,No,No,No,High,0,NA,admin1
+40,21,male,No,No,No,No,No,No,High,0,NA,admin1
+41,41,male,No,No,No,No,No,No,High,1,NA,admin1
+56,44,female,No,Yes,No,No,No,Yes,High,0,"fatigue, fever",admin3
+81,43,female,No,No,No,No,No,No,High,0,NA,admin2
+89,43,male,No,Yes,No,No,No,No,Low,3,"discomfort, fever",admin2
+91,40,male,Yes,No,No,No,No,No,Low,10,"cough, dizziness",admin2
+99,66,male,Yes,Yes,No,No,No,Yes,Low,6,"cough, fatigue, fever, weakness",admin2
+100,65,female,Yes,Yes,No,No,No,Yes,Low,7,"cough, fever, weakness",admin2
+101,36,male,Yes,Yes,No,No,No,No,Low,10,"cough, diarrhea, fever, rhinorrhoea, sneezing",admin2
+103,63,female,Yes,Yes,No,No,No,Yes,Low,7,"anhelation, cough, fever, pleural effusion, weakness",admin2
+104,37,female,No,Yes,No,Yes,No,No,Low,9,"diarrhea, fever, nasal congestion, pleuritic chest pain, sore throat",admin2
+119,78,male,No,No,No,No,No,No,Low,NA,NA,admin2
+120,76,female,No,No,No,No,No,No,Low,NA,NA,admin2
+121,48,female,No,No,No,No,No,No,Low,NA,NA,admin2
+122,66,female,Yes,No,No,No,No,No,Low,6,cough,admin2
+144,66,female,No,No,No,No,No,No,High,1,NA,admin2
+145,63,male,Yes,Yes,No,No,No,No,Low,7,"cough, fever",admin2
+146,62,female,Yes,Yes,No,No,No,No,Low,12,"cough, fever",admin2
+147,49,male,No,Yes,No,No,No,No,High,0,fever,admin2
+148,46,male,No,Yes,No,No,No,No,High,1,fever,admin2
+150,34,male,Yes,Yes,No,No,No,No,Low,3,"cough, fever",admin2
+151,41,male,No,Yes,No,No,No,No,Low,3,fever,admin2
+152,72,female,No,Yes,No,No,No,No,High,0,"fever, weak",admin2
+153,20,female,Yes,Yes,No,No,No,No,High,0,"cough, fever, muscular soreness",admin2
+154,54,male,Yes,Yes,No,No,No,No,High,0,"cough, fever",admin2
+155,33,female,No,Yes,No,No,No,No,Low,2,fever,admin2
+156,49,female,Yes,No,No,No,No,No,High,1,"chest distress, cough, expectoration, muscular soreness",admin2
+162,33,male,Yes,No,No,No,Yes,No,Low,2,"cough, headache",admin2
+163,2,female,No,Yes,No,No,No,No,High,1,"fever, sneeze",admin2
+164,29,male,No,No,No,No,No,No,High,0,discomfort,admin2
+165,62,male,Yes,No,No,No,No,No,Low,8,"cough, muscular stiffness, weak",admin2
+166,61,male,No,Yes,No,No,No,No,High,1,fever,admin2
+167,20,male,No,No,No,No,No,No,High,0,discomfort,admin3
+168,51,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+169,50,female,No,Yes,No,No,No,No,Low,7,fever,admin2
+173,72,male,Yes,Yes,No,No,No,No,High,0,"cough, fever",admin2
+175,49,male,Yes,Yes,No,No,No,No,High,0,"cough, expectoration, fever",admin2
+179,66,male,No,Yes,No,No,No,No,Low,NA,"chest tightness, dyspnea, fever",admin2
+192,39,male,Yes,Yes,No,No,No,No,High,0,"cough, fever",admin1
+193,56,male,No,Yes,No,No,No,No,Low,3,fever,admin1
+222,37,male,No,Yes,No,No,No,No,High,0,fever,admin2
+241,27,male,No,Yes,No,No,No,No,High,0,"fever, weak",admin2
+242,40,female,Yes,Yes,No,No,No,No,High,0,"cough, fever",admin2
+249,42,female,Yes,Yes,No,No,No,No,High,0,"cough, fever",admin2
+252,33,male,Yes,Yes,No,No,No,No,Low,6,"cough, fever",admin2
+254,50,female,No,No,No,Yes,No,No,Low,6,pharynx,admin2
+255,42,male,No,No,No,No,No,No,Low,3,muscular soreness,admin2
+256,66,male,No,No,No,No,No,No,Low,NA,NA,point
+257,52,female,Yes,No,No,Yes,No,No,Low,NA,"cough, sore throat",point
+258,29,male,No,No,No,No,No,No,High,0,NA,admin2
+259,28,male,No,Yes,No,No,No,No,High,0,fever,admin2
+263yrs,23,male,No,No,No,No,No,No,High,0,NA,admin2
+264,49,male,No,No,No,No,No,No,Low,2,NA,admin2
+265,38,male,No,Yes,No,No,No,No,High,0,fever,admin2
+266,62,female,No,Yes,No,No,No,No,High,0,fever,admin2
+267,65,male,No,Yes,No,No,No,No,High,0,fever,admin2
+300,NA,male,No,Yes,No,No,Yes,No,High,1,"fever, headache",admin2
+301,28,female,No,Yes,No,No,No,No,High,0,fever,admin2
+302,31,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+303,50,male,Yes,Yes,No,No,No,No,High,0,"cough, dyspnea, fever",admin2
+304,48,male,No,Yes,No,No,No,No,High,0,fever,admin2
+305,36,male,No,Yes,No,No,No,Yes,Low,2,"fatigue, fever",admin2
+313,29,female,No,Yes,No,No,No,No,High,0,fever,admin2
+317,52,male,No,Yes,No,No,No,Yes,High,0,"fever, sore muscle, weakness",admin2
+319,53,male,Yes,Yes,No,No,No,No,Low,6,"cough, fever",admin2
+320,39,female,No,Yes,No,No,No,Yes,Low,4,"systemic weakness, runny nose, fever",admin2
+343,46,male,No,Yes,No,No,No,No,High,0,fever,admin2
+344,46,male,No,Yes,No,No,No,No,Low,13,fever,admin2
+459,40,female,No,No,No,No,No,No,Low,6,NA,admin3
+460,51,male,No,No,No,No,No,No,Low,4,NA,admin3
+461,37,male,No,No,No,No,No,No,Low,3,NA,admin3
+462,55,male,No,No,No,No,No,No,High,0,NA,admin3
+463,32,male,No,No,No,No,No,No,High,0,NA,admin2
+464,24,male,No,No,No,No,No,No,Low,4,NA,admin2
+465,39,male,No,No,No,No,No,No,High,1,NA,admin3
+466,25,female,No,Yes,No,No,No,No,High,0,fever,admin2
+467,56,male,No,No,No,No,No,No,High,0,NA,admin2
+471,43,male,No,Yes,No,No,No,No,High,0,fever,admin2
+472,22,male,No,Yes,No,Yes,No,No,Low,2,"fever, sore throat",admin2
+474,51,male,No,Yes,No,No,No,No,Low,3,"fever, muscular soreness, rigor",admin2
+475,38,male,No,No,Yes,No,Yes,No,Low,2,"chills, diarrhea, dyspnea, headache, lack of energy, muscle pain",admin2
+476,59,male,Yes,Yes,No,No,No,No,Low,2,"cough, fever",admin2
+477,60,male,Yes,Yes,No,No,No,Yes,Low,4,"cough, fatigue, fever",admin2
+478,35,male,No,Yes,No,No,No,No,Low,3,fever,admin2
+479,25,female,No,Yes,No,Yes,No,No,Low,2,"fever, pharyngalgia",admin2
+601,64,female,No,No,No,No,No,No,Low,10,pneumonitis,admin2
+603,28,male,No,No,No,No,No,No,Low,2,pneumonia,admin2
+604,41,male,No,No,No,No,No,No,Low,9,pneumonia,admin2
+617,49,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+625,65,female,Yes,Yes,No,No,No,No,Low,4,"cough, discomfort, fever, other symptoms",admin3
+645,48,male,No,No,No,No,No,No,High,0,flu-like symptoms,point
+646,30,female,Yes,Yes,Yes,No,No,Yes,High,1,"chills, cough, fatigue, fever",point
+647,31,male,Yes,Yes,Yes,No,No,No,Low,5,"chills, conjunctivitis, cough, fever",point
+648,40,male,No,Yes,No,Yes,No,No,Low,6,"fever, pneumonia, sore throat",point
+649,30,male,Yes,Yes,No,Yes,No,No,Low,7,"cough, fever, sore throat",admin1
+650,30,female,Yes,Yes,No,No,No,No,Low,9,"cough, fever",admin1
+654,32,male,Yes,Yes,No,No,No,No,Low,4,"cough, fever, shortness of breath",point
+655,66,male,Yes,Yes,No,No,No,No,High,1,"cough, fever",point
+656,53,female,Yes,Yes,No,No,No,No,High,1,"cough, fever",point
+658,35,female,Yes,Yes,No,No,No,No,High,1,"cough, fever",point
+659,55,male,No,Yes,No,No,No,No,Low,13,fever,point
+660,55,female,Yes,Yes,No,No,No,No,Low,9,"cough, fever, shortness breath",point
+665,61,female,No,Yes,Yes,Yes,Yes,No,Low,3,"chills, fever, headache, sore throat",point
+667,33,female,Yes,Yes,No,No,No,No,Low,NA,"coughing, fever, muscle aches",point
+668,60,female,No,No,No,No,No,No,Low,NA,NA,point
+669,35,male,Yes,Yes,No,No,No,No,Low,3,"cough, fever, nausea",admin2
+670,66,male,No,No,No,No,No,No,Low,5,NA,point
+671,28,male,No,No,No,No,No,No,Low,2,NA,point
+673,35,male,No,No,No,No,No,No,High,0,NA,point
+674,43,male,No,No,No,No,No,No,High,0,NA,point
+675,53,male,No,No,No,No,No,No,High,0,NA,point
+678,51,male,Yes,Yes,No,No,No,No,Low,8,"cough, fever, myalgia",point
+680,36,male,No,No,No,No,No,No,High,1,NA,point
+682,54,male,No,Yes,Yes,No,No,No,Low,3,"chills, fever",point
+683,50,male,No,No,No,No,No,No,High,1,NA,point
+684,40,male,No,Yes,No,No,No,No,High,1,"fever, joint pain, pneumonia",admin1
+883,43,male,No,Yes,No,No,No,No,High,0,fever,admin2
+884,48,female,No,Yes,No,No,No,No,Low,4,fever,admin2
+885,54,female,No,Yes,No,No,No,No,Low,4,fever,admin2
+886,47,male,No,Yes,No,No,No,No,High,1,fever,admin2
+887,55,male,No,Yes,No,No,No,No,Low,6,fever,admin2
+888,47,female,Yes,Yes,No,No,No,No,Low,2,"cough, fever",admin2
+889,46,female,No,Yes,No,No,No,No,Low,3,fever,admin2
+956,47,female,Yes,Yes,No,No,No,Yes,Low,2,fever; fatigue; dry cough,admin2
+1011,70,female,No,No,No,No,No,No,Low,NA,pneumonitis,admin2
+1017,44,male,No,No,No,No,No,No,Low,6,pneumonitis,admin2
+1057,39,female,No,Yes,No,No,No,No,Low,NA,fever,admin1
+1058,21,female,No,No,No,No,No,No,Low,NA,"dizziness, sore limbs",admin1
+1060,50,female,No,No,No,No,No,No,Low,3,pneumonia,admin1
+1065,NA,NA,No,No,No,No,No,No,High,0,NA,point
+1084,68,female,Yes,Yes,No,No,No,No,Low,4,"cough, fever",admin1
+1085,64,male,No,Yes,No,No,No,No,High,1,fever,admin1
+1087,60,male,No,Yes,No,No,No,No,High,0,"fever, runny nose",point
+1296,44,female,No,Yes,No,No,No,No,High,0,fever,admin2
+1394,39,male,No,No,No,No,No,No,High,0,pneumonia,admin2
+1395,41,female,No,No,No,No,No,No,High,0,pneumonia,admin2
+1397,27,male,No,No,No,No,No,No,Low,2,pneumonitis,admin2
+1461,67,female,No,No,No,No,No,No,High,1,NA,admin1
+1463,52,female,Yes,Yes,No,Yes,No,No,High,0,"cough, fever, myalgia, rhinorrhea, sore throat",admin1
+1466,56,female,No,No,No,No,No,No,Low,2,NA,admin0
+1485,33,male,No,Yes,Yes,Yes,No,No,Low,NA,"chills, fever, myalgias, sore throat",point
+1486,55,male,No,Yes,No,No,No,No,Low,4,"aching muscles, fever, pneumonia",point
+1511,28,male,Yes,No,No,No,No,No,Low,3,dry cough,admin2
+1593,49,female,No,No,No,No,No,No,Low,7,NA,admin3
+1594,25,female,No,No,No,No,No,No,Low,NA,NA,admin3
+1595,40,male,No,No,No,No,No,No,High,0,NA,admin3
+1678,59,female,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1679yrs old,38,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1680,37,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1681,49,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1682,43,female,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1683,39,female,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1684,41,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1685,67,female,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1686,52,female,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1687,31,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1688,34,female,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1689,24,female,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1690,47,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1691,16,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1692,32,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1693,32,female,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1694,25,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1695,52,female,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1696,42,female,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1697,51,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1698,43,male,No,Yes,No,No,No,No,Low,NA,fever,admin2
+1771,60,male,Yes,No,Yes,No,No,No,Low,11,"chills, cough, joint pain",admin1
+1772,40,female,Yes,Yes,No,No,No,No,High,1,"cough, fever, pneumonia",admin1
+1818,NA,female,No,Yes,No,Yes,No,No,High,0,"fever, sore throat",admin2
+1834,36,male,No,No,No,No,No,No,High,0,pneumonitis,admin2
+1835,41,female,No,No,No,No,No,No,Low,NA,pneumonitis,admin2
+1836,25,male,No,No,No,No,No,No,High,1,pneumonitis,admin2
+1837,46,female,No,No,No,No,No,No,High,0,pneumonitis,admin2
+1838,50,male,No,No,No,No,No,No,Low,3,pneumonitis,admin2
+1839,36,female,No,No,No,No,No,No,Low,6,pneumonitis,admin2
+1840,36,male,No,No,No,No,No,No,Low,6,pneumonitis,admin2
+age 1841,32,female,No,No,No,No,No,No,High,1,pneumonitis,admin2
+1842,64,male,No,No,No,No,No,No,Low,3,pneumonitis,admin2
+1843,70,male,No,No,No,No,No,No,High,1,pneumonitis,admin2
+1844,25,male,No,No,No,No,No,No,Low,3,pneumonitis,admin2
+1880,27,male,No,No,No,No,No,No,Low,NA,NA,point
+1881,27,male,No,No,No,No,No,No,Low,NA,NA,point
+1882,33,female,No,No,No,No,No,No,Low,NA,NA,point
+2021,50,male,No,No,No,No,No,No,High,0,"myalgia, rhinorrhea",admin1
+2026,22,male,No,No,No,No,No,No,High,1,NA,admin2
+2027,22,male,No,No,No,No,No,No,High,1,NA,admin2
+2028,22,female,No,No,No,No,No,No,Low,2,NA,admin2
+2029,22,male,No,No,No,No,No,No,High,1,NA,admin2
+2030,24,male,No,No,No,No,No,No,Low,3,NA,admin2
+2031,22,male,No,No,No,No,No,No,High,1,NA,admin2
+2032,30,male,No,No,No,No,No,No,Low,4,NA,admin2
+2033,30,female,No,No,No,No,No,No,Low,3,NA,admin2
+2034,64,female,No,No,No,No,No,No,Low,3,NA,admin2
+2035,52,female,No,No,No,No,No,No,Low,2,NA,admin2
+2036,45,female,No,No,No,No,No,No,Low,3,NA,admin2
+2037,40,male,No,No,No,No,No,No,Low,5,NA,admin2
+2038,52,female,No,No,No,No,No,No,Low,2,NA,admin2
+2354,46,female,No,No,No,No,No,No,High,1,NA,admin2
+2355,49,male,No,No,No,No,No,No,Low,5,NA,admin2
+2357,29,male,No,No,No,No,No,No,Low,2,NA,admin2
+2358,26,male,No,No,No,No,No,No,High,0,NA,admin2
+2360,46,male,No,No,No,No,No,No,High,1,NA,admin2
+2361,66,male,No,No,No,No,No,No,High,0,NA,admin2
+2362,3,female,No,No,No,No,No,No,High,0,NA,admin2
+2363,45,female,No,No,No,No,No,No,High,0,NA,admin2
+2447,56,female,No,No,No,No,No,No,Low,3,NA,point
+2448,56,male,No,No,No,No,No,No,Low,3,NA,point
+2449,56,male,No,No,No,No,No,No,Low,7,NA,admin0
+2463,56,male,No,No,No,No,No,No,High,1,NA,point
+2464,35,male,No,No,No,No,No,No,High,0,NA,point
+2469,40,male,No,No,No,No,No,No,High,0,NA,point
+2593,32,female,No,No,No,No,No,No,Low,NA,NA,point
+2594,60,male,No,No,No,No,No,No,Low,NA,NA,point
+2595,40,female,No,No,No,No,No,No,Low,3,NA,admin1
+2596,30,male,No,No,No,No,No,No,Low,7,NA,admin1
+2928,56,female,No,No,No,No,No,No,Low,6,NA,admin2
+2929,49,male,No,No,No,No,No,No,Low,5,NA,admin3
+2930,34,female,No,No,No,No,No,No,High,0,NA,admin3
+2931,71,male,No,No,No,No,No,No,Low,3,NA,admin3
+2932,22,female,No,No,No,No,No,No,High,0,NA,admin3
+2933,16,female,No,No,No,No,No,No,High,0,NA,admin3
+2934,28,male,No,No,No,No,No,No,High,1,NA,admin3
+2935,47,female,No,No,No,No,No,No,Low,NA,NA,admin3
+2936,35,male,No,No,No,No,No,No,Low,NA,NA,admin2
+2937,37,male,No,No,No,No,No,No,Low,NA,NA,admin2
+2961,38,female,No,No,No,No,No,No,Low,NA,NA,point
+3003,NA,male,No,No,No,No,No,No,High,1,NA,admin1
+3004,50,male,No,No,No,No,No,No,Low,4,NA,admin1
+3005,20,female,No,No,No,No,No,No,Low,5,NA,admin1
+3006,30,female,No,No,No,No,No,No,Low,6,NA,admin1
+3007,28,male,No,No,No,No,No,No,Low,3,NA,admin1
+3008,44,female,No,No,No,No,No,No,Low,4,NA,admin1
+3009,33,male,No,No,No,No,No,No,Low,11,NA,admin1
+3010,49,male,No,No,No,No,No,No,Low,3,NA,admin1
+3011,80,male,No,No,No,No,No,No,Low,5,NA,admin1
+3012,45,female,No,No,No,No,No,No,Low,4,NA,admin1
+3013,45,male,No,No,No,No,No,No,Low,4,NA,admin1
+3014,77,male,No,No,No,No,No,No,High,1,NA,admin1
+3015,25,NA,No,No,No,No,No,No,High,0,NA,admin1
+3019,55,male,No,No,No,No,No,No,High,1,NA,point
+3020,33,male,Yes,No,No,No,No,No,Low,3,cough,point
+3052,72,male,No,Yes,No,No,No,No,Low,4,fever,admin1
+3053,73,female,No,Yes,No,No,No,No,Low,4,fever,admin1
+3681,37,female,Yes,No,No,No,No,No,Low,2,cough,admin1
+3682,75,male,Yes,No,No,No,No,No,Low,2,"cough, dyspnea",admin1
+4109,39,male,Yes,Yes,No,No,No,No,Low,11,"cough, fever",admin1
+4110,31,male,No,No,No,No,No,No,Low,2,NA,point
+4111,47,female,No,No,No,No,No,No,High,0,NA,point
+4112,38,male,No,No,No,No,No,No,Low,6,NA,point
+4148,31,female,No,No,No,No,No,No,Low,6,NA,admin3
+4149,28,female,Yes,Yes,No,No,No,No,Low,NA,"cough, fever",admin3
+4150,37,male,No,Yes,No,Yes,No,No,Low,3,"fever, pharyngeal discomfort",admin3
+4151,51,female,No,Yes,Yes,No,Yes,No,Low,5,"chills, headache, fever",admin3
+4152,45,female,Yes,Yes,No,Yes,No,No,Low,5,"fever, sore throat, sputum",admin3
+4153,27,female,Yes,Yes,No,No,No,No,High,1,"cough, fever",admin3
+4154,32,male,No,Yes,No,No,No,No,Low,4,fever,admin2
+4155,35,male,No,No,No,No,No,No,High,0,physical discomfort,admin2
+4156,34,female,No,No,No,No,No,No,High,0,NA,admin2
+4280,31,male,No,No,No,No,No,No,Low,11,discomfort,admin3
+4281,66,female,No,No,No,No,No,Yes,Low,4,weakness,admin3
+4283,32,male,No,Yes,No,No,No,No,Low,4,fever,admin3
+4284,60,male,Yes,Yes,No,No,No,No,Low,2,fever; cough,admin2
+4567,40,male,No,Yes,No,No,No,No,Low,2,"chest tightness, fever, nausea",admin3
+4866,NA,NA,No,No,No,No,No,No,Low,NA,NA,admin1
+4867,73,male,No,No,No,No,No,No,Low,5,respiratory symptoms,point
+4868,25,female,Yes,Yes,No,No,No,No,Low,9,"cough, fever",point
+4871,20,female,No,No,No,No,No,No,High,0,NA,point
+4876,20,female,No,No,No,No,No,No,Low,3,NA,point
+4877,28,male,Yes,Yes,No,No,No,No,Low,3,"cough, fever",point
+4878,62,female,Yes,Yes,No,No,No,No,Low,9,"cough, fever, muscle ache",point
+4879,28,female,No,No,No,No,No,No,High,1,NA,point
+4880,54,male,No,No,No,No,No,No,Low,2,NA,point
+4881,25,male,No,No,No,No,No,No,High,1,NA,point
+4882,49,male,No,No,No,No,No,No,Low,10,NA,point
+4884,40,female,No,No,No,No,No,No,Low,4,NA,point
+4885,43,male,No,No,No,No,No,No,High,0,NA,point
+4886,20,female,Yes,No,No,No,No,No,Low,9,"cough, runny nose",admin1
+4890,40,male,Yes,Yes,No,No,No,No,Low,NA,"cough, fever",admin0
+4892,20,male,No,No,No,No,No,No,Low,NA,runny nose,point
+4898,73,female,No,No,No,No,No,No,High,0,NA,point
+4899,37,female,No,No,No,No,No,No,Low,3,NA,point
+4900,47,female,No,Yes,No,No,No,No,High,0,fever,point
+4901,31,female,No,No,No,No,No,No,High,1,NA,point
+4902,31,female,No,No,No,No,No,No,High,0,NA,point
+4903,80,male,Yes,Yes,No,No,No,No,Low,11,"cough, fever",point
+4905,57,female,No,No,No,No,No,No,Low,5,NA,admin2
+4906,31,female,No,No,No,No,No,No,Low,2,NA,admin2
+4907,52,male,No,No,No,No,No,No,Low,5,NA,admin2
+4908,59,female,No,No,No,No,No,No,High,1,NA,admin2
+4909,29,female,No,No,No,No,No,No,High,0,NA,admin2
+4910,30,male,No,No,No,No,No,No,High,0,NA,admin2
+4911,77,male,No,No,No,No,No,No,Low,2,NA,admin2
+4912,10,male,No,No,No,No,No,No,High,0,NA,admin2
+4913,34,female,No,No,No,No,No,No,Low,20,NA,admin2
+4914,61,female,No,No,No,No,No,No,Low,6,NA,admin2
+4915,59,male,No,No,No,No,No,No,Low,3,NA,admin2
+4916,56,female,No,No,No,No,No,No,Low,7,NA,admin2
+4917,28,female,No,No,No,No,No,No,Low,3,NA,admin2
+4918,61,male,No,No,No,No,No,No,High,1,NA,admin2
+4919,35,male,No,No,No,No,No,No,Low,3,NA,admin2
+4920,42,female,No,No,No,No,No,No,High,0,NA,admin2
+4921,20,male,No,No,No,No,No,No,High,1,NA,admin2
+4922,44,female,No,No,No,No,No,No,High,1,NA,admin2
+4923,75,male,No,No,No,No,No,No,Low,4,NA,admin2
+4924,43,female,No,No,No,No,No,No,High,1,NA,admin2
+4925,66,male,No,No,No,No,No,No,High,0,NA,admin2
+4926,44,male,No,No,No,No,No,No,Low,2,NA,admin2
+4927,39,female,No,No,No,No,No,No,High,0,NA,admin2
+5105,64,male,No,No,No,No,No,No,High,1,NA,admin3
+5106,74,male,No,No,No,No,No,No,High,-2,NA,admin3
+5107,62,female,No,No,No,No,No,No,Low,7,NA,admin3
+5108,5,female,No,No,No,No,No,No,Low,5,NA,admin3
+5109,51,female,No,No,No,No,No,No,Low,9,NA,admin3
+5110,68,female,No,No,No,No,No,No,Low,3,NA,admin2
+5112,39,male,No,No,No,No,No,No,High,1,NA,admin2
+5114,72,male,No,No,No,No,No,No,High,-2,NA,admin2
+5115,73,female,No,No,No,No,No,No,High,-4,NA,admin2
+5116,34,female,No,No,No,No,No,No,High,0,NA,admin3
+5117,50,female,No,No,No,No,No,No,High,1,NA,admin3
+5118,36,male,No,No,No,No,No,No,Low,2,NA,admin3
+5119,56,female,No,No,No,No,No,No,Low,7,NA,admin3
+5120,26,male,Yes,Yes,No,No,No,No,Low,4,"cough, fever",admin3
+5121,73,female,No,Yes,No,No,No,No,Low,3,fever,admin3
+5122,44,male,Yes,Yes,No,No,No,No,Low,3,"cough, fever, sputum",admin3
+5123,36,male,Yes,Yes,No,No,No,No,Low,4,"cough, fever",admin3
+5124,38,female,Yes,Yes,No,No,No,No,Low,5,"cough, fever",admin3
+5125,20,female,No,No,No,No,No,No,High,0,NA,admin3
+5126,64,female,Yes,No,No,No,No,No,Low,7,"cough, sputum",admin3
+5127,59,male,Yes,No,No,Yes,No,No,Low,6,"cough, sore throat, sputum",admin3
+5128,39,female,No,Yes,No,No,No,No,High,0,fever,admin3
+5129,46,female,No,No,Yes,No,No,Yes,Low,2,"chills, fatigue",admin3
+5161,72,female,Yes,No,No,No,No,No,High,0,cough,point
+5199,47,male,Yes,Yes,No,No,No,Yes,Low,5,fever; dry cough; fatigue,admin2
+5597,52,female,No,No,No,No,No,No,Low,2,NA,admin2
+5598,47,female,No,No,No,No,No,No,Low,3,NA,admin2
+5599,54,male,No,No,No,No,No,No,High,-1,NA,admin2
+5601,50,male,No,No,No,No,No,No,High,0,NA,admin2
+5760,35,female,No,No,No,No,No,No,Low,6,NA,admin2
+5761,37,female,No,No,No,No,No,No,High,0,NA,admin2
+5762,24,male,No,No,No,No,No,No,High,0,NA,admin2
+5763,50,female,No,No,No,No,No,No,High,1,NA,admin2
+5764,76,female,No,No,No,No,No,No,High,0,NA,admin2
+5765,38,male,No,No,No,No,No,No,High,1,NA,admin2
+5777,56,female,No,No,No,No,No,No,Low,NA,NA,admin2
+5778,32,female,No,No,No,No,No,No,High,0,NA,admin2
+5779,42,female,No,Yes,No,No,No,No,Low,2,fever,admin2
+5780,66,female,No,Yes,No,No,No,No,High,0,fever,admin2
+5781,36,female,Yes,Yes,No,No,No,No,Low,5,"cough, fever",admin2
+5782,37,female,No,Yes,No,No,No,No,High,1,fever,admin2
+5783,46,female,Yes,Yes,No,No,No,No,High,0,"cough, fever",admin2
+5784,43,male,No,Yes,No,No,No,No,High,0,fever,admin2
+6132,59,male,Yes,Yes,No,No,No,No,Low,8,"cough, fever, runny nose",admin1
+6133,29,female,Yes,Yes,No,No,No,No,Low,NA,"cough, fever, runny nose",admin1
+6134,42,female,Yes,Yes,No,No,No,No,Low,2,"cough, fever, runny nose",point
+6136,28,female,No,Yes,No,Yes,No,No,Low,5,"fever, sore throat",point
+6137,48,female,No,No,No,No,No,No,Low,9,NA,point
+6138,44,female,No,No,No,No,No,No,High,1,NA,point
+6141,32,female,No,No,No,No,No,No,Low,4,NA,point
+6179,29,male,No,Yes,No,No,No,No,High,1,fever,admin2
+6180,69,female,No,Yes,No,No,No,No,Low,7,fever,admin2
+6181,9,male,Yes,Yes,No,No,No,No,High,0,"cough, fever",admin2
+6182,61,male,No,Yes,No,No,No,No,High,0,fever,admin2
+6183,51,male,No,No,No,No,No,No,Low,7,NA,point
+6196,65,male,No,No,No,No,No,No,Low,7,NA,admin3
+6213,56,male,No,No,No,No,No,No,Low,10,NA,admin3
+6215,49,male,No,No,No,No,No,No,Low,6,NA,admin2
+6231,33,male,No,Yes,No,No,No,No,Low,5,fever,admin2
+6232,41,female,No,No,No,No,No,No,Low,7,NA,admin2
+6237,51,male,No,No,No,No,No,No,Low,6,NA,admin3
+6238,37,male,No,No,No,No,No,No,Low,6,NA,admin3
+6240,41,male,No,No,No,No,No,No,Low,3,NA,admin3
+6241,45,female,No,No,No,No,No,No,Low,2,NA,admin3
+6243,41,male,No,No,No,No,No,No,High,0,NA,admin3
+6245,25,male,Yes,No,No,No,No,No,Low,6,"cough, diarrhoea, runny nose",point
+6263,66,female,Yes,Yes,No,No,No,No,Low,NA,"cough, fever, eventually showed acute left heart failure and acute coronary syndrome",admin3
+6264,51,female,Yes,Yes,No,No,No,No,Low,3,"cough, high fever, myalgia",admin3
+6265,65,male,No,Yes,No,No,No,No,High,1,"fever, myalgia",admin3
+6319,49,male,No,No,No,No,No,No,Low,3,NA,admin3
+6348,49,female,Yes,No,No,No,No,No,High,1,cough,point
+6352,60,female,No,No,No,No,No,No,Low,NA,NA,point
+6353,64,female,Yes,Yes,No,No,No,No,Low,9,"cough, fever, shortness of breath",point
+6441,77,female,No,No,No,No,No,No,Low,3,NA,admin3
+6442,69,male,No,No,No,No,No,Yes,High,0,fatigue,admin3
+6491,60,male,No,No,No,No,No,No,Low,7,NA,admin3
+6511,54,female,No,Yes,No,Yes,No,Yes,Low,2,fever;sore throat; fatigue; diarrhea,admin2
+6512,62,male,No,Yes,No,No,No,Yes,Low,3,fever; fatigue,admin2
+6513,60,female,No,Yes,No,Yes,No,Yes,High,1,fever; sore throat;fatigue;vomiting,admin2
+6514,45,female,Yes,No,No,No,No,No,Low,4,cough,admin2
+6682,38,male,No,No,No,No,No,No,Low,NA,NA,point
+6739,55,female,No,Yes,No,No,No,No,Low,2,"chest tightness, fever",admin3
+6740,48,female,No,Yes,No,No,No,No,Low,4,"fever, joint pain, muscle soreness",admin3
+6741,43,female,No,Yes,No,No,No,No,High,1,fever,point
+6742,35,male,No,Yes,No,No,No,No,Low,5,fever,admin3
+6743,29,male,No,Yes,No,No,No,No,Low,3,fever,admin3
+6744,51,male,Yes,Yes,No,No,No,No,High,1,"cough, fever",admin3
+6745,35,male,No,Yes,Yes,No,No,No,Low,10,"chills, fever",admin3
+6746,28,female,Yes,Yes,No,No,No,No,Low,4,"cough, fever",point
+6747,78,female,No,No,No,No,No,No,Low,8,"chest pain, nasal congestion",point
+6748,38,female,Yes,No,No,No,No,No,Low,4,"cough, muscle soreness, sweating",point
+6749,36,male,Yes,Yes,No,No,No,No,Low,6,"cough, fever",admin3
+6769,55,female,No,No,No,No,No,No,Low,NA,NA,admin1
+6770,63,female,No,No,No,No,No,No,Low,NA,NA,admin1
+6771,65,female,No,No,No,No,No,No,Low,NA,NA,admin1
+6772,68,male,No,No,No,No,No,No,Low,10,NA,admin3
+6915,83,female,No,No,No,No,No,No,High,0,NA,admin3
+6916,66,female,No,No,No,No,No,No,Low,7,NA,admin3
+6930,35,female,No,No,No,No,No,No,Low,NA,NA,admin3
+6946,51,female,No,No,No,No,No,No,Low,5,NA,admin3
+7001,52,female,No,No,No,No,No,No,Low,3,NA,admin3
+7067,45,male,No,No,No,No,No,No,Low,3,NA,point
+7068,41,male,No,Yes,No,No,No,No,Low,6,fever,point
+7069,27,male,No,No,No,No,No,No,Low,16,NA,point
+7163,22,female,No,Yes,No,No,No,No,Low,5,fever,admin2
+7413,50,male,No,No,No,No,No,No,High,0,NA,admin3
+7414,77,female,No,No,No,No,No,No,High,0,NA,admin3
+7415,48,male,No,No,No,No,No,No,Low,5,NA,admin3
+7506,66,male,No,No,No,No,No,No,High,0,NA,admin3
+7507,47,male,No,No,No,No,No,No,Low,2,NA,admin3
+7508,43,female,No,No,No,No,No,No,High,0,NA,admin3
+7594,67,female,No,No,No,No,No,No,Low,5,NA,admin3
+7598,33,male,No,No,No,No,No,No,Low,7,NA,point
+7621,53,female,No,No,No,No,No,No,Low,NA,pneumonitis,admin3
+7622,50,female,No,No,No,No,No,No,High,0,NA,admin3
+7670,60,male,No,Yes,No,No,No,No,Low,8,"fever, myalgia, shortness of breath",point
+7702,62,female,No,No,No,No,No,No,High,1,NA,admin3
+7813,59,NA,No,No,No,No,No,No,Low,6,NA,point
+7875,64,female,Yes,Yes,No,No,No,No,Low,5,"cough, fever",admin1
+7876,35,female,No,Yes,No,No,No,No,Low,6,fever,admin1
+7877,75,male,No,Yes,No,No,No,No,Low,2,fever,admin1
+7878,61,female,No,Yes,No,No,No,No,Low,3,fever,admin1
+7879,50,female,Yes,Yes,No,No,No,No,Low,NA,"cough, fever, pneumonia, respiratory distress",admin1
+7880,30,female,No,Yes,No,No,No,No,High,1,"fever, runny nose",admin1
+7884,36,male,No,No,No,No,No,No,Low,4,NA,admin0
+7885,20,female,No,No,No,No,No,No,High,0,NA,admin1
+7887,40,male,Yes,Yes,No,No,No,No,Low,3,"cough, fever",admin1
+7888,20,male,No,Yes,No,No,No,No,Low,7,fever,admin1
+7889,50,female,No,Yes,No,No,No,No,Low,7,fever,admin1
+7890,50,male,No,Yes,No,No,No,No,Low,9,fever,admin1
+8311,53,male,No,No,No,No,No,No,Low,9,NA,point
+8312,42,female,No,No,No,No,No,No,Low,3,NA,point
+8313,39,female,No,No,No,No,No,No,Low,3,NA,point
+8346,65,male,No,No,No,No,No,No,High,0,NA,admin2
+8347,21,male,No,No,No,No,No,No,High,1,NA,admin2
+8348,64,female,No,No,No,No,No,No,High,1,NA,admin2
+8349,63,male,No,No,No,No,No,No,High,1,NA,admin2
+8351,39,male,No,No,No,No,No,No,Low,2,NA,admin2
+8352,71,male,No,No,No,No,No,No,High,0,NA,admin2
+8354,27,female,No,No,No,No,No,No,Low,6,NA,admin2
+8355,42,male,No,No,No,No,No,No,High,1,NA,admin2
+8356,25,male,No,No,No,No,No,No,Low,NA,NA,admin2
+8489,68,male,No,No,No,No,No,No,Low,3,"nausea, vomiting",admin2
+8501,60,female,No,Yes,No,No,Yes,No,High,1,"fever, headache",point
+8502,60,male,No,Yes,No,No,No,No,Low,NA,fever,point
+8504,60,male,Yes,Yes,No,No,No,No,High,1,"cough, fever",point
+8788,50,male,Yes,Yes,No,No,No,No,High,1,"cough, fever",admin1
+8904,42,female,Yes,Yes,No,No,No,No,Low,7,"fever, cough",admin3
+8905,26,female,Yes,Yes,No,No,No,No,Low,3,"fever, cough",admin3
+8906,37,male,No,Yes,No,Yes,No,No,Low,5,"fever, dry throat, sore throat",admin3
+8907,24,male,No,Yes,No,No,No,No,High,0,fever; runny nose,admin3
+8914,54,female,No,No,No,Yes,No,Yes,Low,14,dry throat; sore throat; fatigue,admin3
+8915,29,female,No,No,No,No,Yes,No,Low,11,headache; dry mouth,admin3
+8916,38,female,No,Yes,No,Yes,No,No,Low,14,fever; dry mouth; throat discomfort,admin3
+8917,29,male,No,Yes,No,No,No,No,Low,NA,fever,admin3
+8921,68,male,No,No,No,No,No,No,Low,3,NA,admin3
+8922,55,female,No,No,No,Yes,No,No,Low,2,pharyngeal discomfort,admin3
+8923,27,female,No,Yes,No,No,No,No,Low,3,fever,admin3
+8924,1,female,No,No,No,No,No,No,Low,8,diarrhea,admin3
+8925,46,female,Yes,No,No,Yes,No,No,Low,2,cough; throat discomfort,admin3
+8926,55,female,No,No,No,No,No,No,High,0,NA,admin3
+8927,33,female,No,No,No,Yes,No,No,Low,9,Pharyngeal dryness,admin3
+8928,23,male,Yes,Yes,No,No,No,No,Low,2,cough; sputum; fever,admin3
+8929,27,female,No,Yes,No,No,No,No,Low,3,fever,admin3
+8933,53,female,Yes,No,No,Yes,No,No,Low,7,dry throat; dry cough,admin2
+8934,34,female,Yes,No,No,No,No,No,High,1,"chest pain, cough",admin3
+8937,57,male,Yes,Yes,No,No,No,No,Low,7,"cough, fever",admin3
+8940,33,male,No,No,No,No,No,No,Low,5,NA,admin3
+8941,40,female,No,No,No,No,No,No,High,0,NA,admin3
+8942,49,male,No,No,No,No,No,No,Low,2,NA,admin3
+8943,29,male,No,No,No,No,No,No,High,0,NA,admin3
+8944,47,male,No,No,No,No,No,No,High,0,NA,admin3
+8945,54,male,No,No,No,No,No,No,High,-3,NA,admin3
+9152,60,male,Yes,Yes,No,No,No,Yes,Low,7,fever; cough; fatigue; nausea,admin2
+9180,65,male,Yes,Yes,No,No,No,No,Low,15,fever; cough,admin2
+9181,38,female,No,Yes,No,No,No,Yes,High,0,fever; fatigue,admin2
+9188,26,male,Yes,Yes,No,No,No,No,Low,NA,"cough, fever",admin2
+9190,27,male,Yes,Yes,No,No,No,No,Low,NA,"cough, fever, sputum",admin3
+9202,33,male,Yes,Yes,No,No,No,No,Low,NA,"cough, fever",admin2
+9670,51,male,No,Yes,No,No,No,No,Low,7,fever,point
+9671,43,male,Yes,No,No,No,No,No,Low,14,"cough, diarrheoa, vomiting",admin1
+9672,67,female,Yes,Yes,Yes,No,No,No,Low,12,"chills, cough, fever",point
+9673,37,male,No,Yes,No,No,No,No,Low,4,fever,point
+10267,50,male,No,No,No,No,No,No,Low,NA,NA,admin3
+10269,45,male,No,No,No,No,No,No,High,-2,NA,admin3
+10548,50,male,No,No,No,No,No,No,Low,3,NA,point
+10648,60,male,No,Yes,No,No,No,No,Low,10,"fever, severe pneumonia",point
+10675,40,male,No,Yes,No,No,No,No,Low,2,fever,admin1
+10903,20,male,Yes,Yes,No,Yes,No,No,Low,NA,"cough, fever, sore throat",point
+10911,40,male,Yes,Yes,No,No,No,No,Low,10,"cough, fever",admin1
+10913,80,male,No,Yes,No,No,No,No,Low,NA,"dyspnea, fever",admin1
+10914,50,male,Yes,Yes,No,No,No,No,Low,10,"cough, difficulty breathing, fever",admin1
+10915,20,male,No,Yes,No,No,No,No,Low,NA,fever,admin1
+10920,55,female,No,Yes,No,No,Yes,No,High,0,"fever, headache, runny nose",point
+10921,0,female,Yes,No,No,No,No,No,Low,NA,"cough, runny nose",point
+10922,50,male,No,No,No,No,No,Yes,Low,NA,transient fatigue,point
+10926,50,male,No,Yes,No,No,No,No,High,-50,fever (38 ° C),point
+10927,50,female,Yes,No,No,No,No,No,Low,NA,"37.1 ° C, mild coughing",point
+10940,33,male,No,No,No,No,No,No,Low,NA,NA,admin2
+10942,33,male,No,No,No,No,No,No,High,0,NA,admin2
+10943,7,male,No,No,No,No,No,No,High,0,NA,admin2
+10944,44,male,No,No,No,No,No,No,High,1,NA,admin2
+10945,69,female,Yes,No,No,No,No,No,Low,10,cough,admin2
+10948,35,female,No,No,No,No,No,No,High,1,NA,admin2
+10950,43,male,No,No,No,Yes,No,No,Low,17,Sore throat,admin2
+10955,47,female,No,No,No,No,No,No,Low,11,NA,admin2
+11164,50,male,No,Yes,No,No,No,No,Low,32,fever,admin0
+11165,40,male,No,No,No,No,No,No,Low,10,NA,point
+11166,42,female,No,No,No,No,No,No,High,0,NA,point
+11167,40,female,No,No,No,No,No,No,Low,10,NA,point
+11168,64,male,No,No,No,No,No,No,Low,7,NA,point
+11169,38,female,No,No,No,No,No,No,Low,11,NA,point
+11170,53,male,No,No,No,No,No,No,Low,7,NA,point
+11171,24,male,No,No,No,No,No,No,Low,NA,NA,point
+11175,52,female,No,No,No,No,No,No,Low,4,NA,point
+11176,51,male,No,No,No,No,No,No,Low,8,NA,point
+11177,36,male,No,No,No,No,No,No,Low,8,NA,point
+11178,71,male,No,No,No,No,No,No,Low,6,NA,point
+11179,39,male,No,No,No,No,No,No,Low,6,NA,point
+11180,54,male,No,No,No,No,No,No,Low,8,NA,point
+11186,31,male,Yes,No,No,No,No,No,Low,4,"feeling ill, coughing",admin1
+11187,37,male,No,No,No,No,No,No,Low,6,NA,point
+11255,35,male,No,No,No,No,No,No,Low,4,NA,point
+11256,39,male,No,No,No,No,No,No,Low,NA,NA,point
+11263,34,male,No,No,No,No,No,No,Low,9,NA,point
+11264,46,male,No,No,No,No,No,No,Low,7,NA,point
+11265,48,male,No,No,No,No,No,No,Low,7,NA,point
+11266,37,male,No,No,No,No,No,No,Low,4,NA,point
+11267,54,male,No,No,No,No,No,No,Low,2,NA,point
+11268,62,male,No,No,No,No,No,No,Low,4,NA,point
+11270,39,female,Yes,Yes,No,No,No,No,High,1,"cough, fever",point
+11271,20,male,Yes,Yes,No,No,No,No,Low,8,"cough, fever",admin1
+11272,80,female,No,No,No,No,No,Yes,Low,10,"anorexia, fatigue",admin1
+11278,50,male,No,Yes,No,No,No,No,Low,10,"abdominal pain, diarrhea, fever, general malaise",admin1
+11279,70,male,No,Yes,No,No,No,No,Low,8,fever,admin1
+11281,60,male,No,No,No,No,No,No,Low,5,NA,admin1
+11282,50,male,Yes,Yes,No,No,No,No,Low,NA,"cough, fever, malaise",admin1
+11284,61,male,No,Yes,No,No,No,No,Low,5,fever,point
+11285,51,female,No,No,No,No,No,No,Low,4,NA,point
+11286,57,male,No,No,No,No,No,No,Low,6,NA,point
+11287,44,female,No,No,No,No,No,No,Low,3,NA,point
+11288,54,female,No,No,No,No,No,No,Low,3,NA,point
+11289,50,male,No,No,No,No,No,No,Low,10,NA,point
+11296,60,female,No,No,No,No,No,No,High,0,poor physical condition,admin1
+11297,70,male,No,No,No,No,No,No,Low,5,NA,admin1
+11300,57,female,No,No,No,No,No,No,Low,2,NA,point
+11307,27,male,No,No,No,No,No,No,Low,NA,NA,point
+11310,79,female,No,No,No,No,No,No,Low,NA,NA,point
+11311,26,male,No,No,No,No,No,No,Low,3,NA,admin0
+11312,27,female,No,No,No,No,No,No,Low,11,NA,point
+11313,25,male,No,No,No,No,No,No,Low,NA,NA,point
+11314,40,male,No,No,No,No,No,No,Low,4,NA,point
+11321,60,male,Yes,No,No,No,No,No,Low,7,"cough, shortness of breath",admin1
+11323,43,male,No,No,No,No,No,No,Low,5,NA,point
+11324,29,male,No,No,No,No,No,No,Low,3,NA,point
+11331,35,male,No,No,No,No,No,No,Low,2,NA,point
+11333,30,male,Yes,Yes,No,No,No,No,Low,NA,"cough, fever",admin1
+11422,65,male,No,No,No,No,No,No,High,0,NA,admin2
+11424,73,male,No,No,No,No,No,No,Low,12,NA,admin3
+11475,57,female,No,No,No,No,No,No,Low,8,NA,point
+11476,35,female,No,No,No,No,No,No,Low,5,NA,point
+11477,38,female,No,No,No,No,No,No,Low,13,NA,point
+11478,50,male,No,No,No,No,No,No,High,1,NA,point
+11512,38,male,No,No,No,No,No,No,Low,NA,NA,point
+11514,NA,male,No,No,No,No,No,No,High,-29,NA,point
+11537,20,female,No,Yes,No,No,No,No,Low,2,fever,point
+11541,50,female,No,No,No,No,No,No,Low,8,NA,admin1
+11542,70,female,No,No,No,No,No,No,Low,NA,NA,admin1
+11543,50,female,No,No,No,No,No,No,Low,NA,NA,admin1
+11545,70,male,No,No,No,No,No,No,High,1,NA,point
+11546,20,female,No,No,No,No,No,No,High,1,NA,point
+11547,60,male,No,No,No,No,No,No,Low,15,NA,point
+11548,50,male,No,Yes,No,No,No,No,Low,4,fever 38.3,admin1
+11549,0,male,No,Yes,No,No,No,No,Low,13,fever (39.5 ℃),admin1
+11550,0,male,No,Yes,No,No,No,No,Low,4,fever 37.7℃,point
+11551,0,male,No,Yes,No,No,No,No,High,1,fever 37.7℃,point
+11552,40,female,No,Yes,No,No,No,No,Low,NA,fever 37.5℃,point
+11553,80,male,No,No,No,No,No,No,Low,23,anorexia,point
+11697,60,female,Yes,Yes,No,No,No,No,Low,7,"nausea, cough, pneumonia, fever",point
+11797,50,female,No,No,No,No,No,No,Low,NA,NA,point
+11798,60,male,Yes,Yes,No,No,No,No,Low,NA,"fever 38.2 ℃, cough",point
+11799,13,female,No,Yes,No,No,No,No,Low,NA,fever (38 ° C),point
+11800,70,female,No,Yes,No,No,No,No,Low,NA,fever 37 C,point
+11801,50,female,No,No,No,No,Yes,No,Low,NA,"malaise, headache",point
+11802,50,male,No,Yes,No,No,No,No,Low,NA,"fever (37 ℃), breathing difficulty",point
+11803,70,male,Yes,Yes,No,No,No,No,Low,NA,"fever (37.5 ℃, then 38 ℃), cough, malaise",point
+11804,50,female,Yes,Yes,No,Yes,No,No,Low,NA,"sore throat, Cough, fever (37 ℃)",point
+11805,80,male,No,No,No,No,No,No,Low,NA,difficulty breathing,point
+11811,50,female,No,Yes,No,No,No,No,Low,5,"fever, shortness of breath, pneumonia",admin1
+11812,60,male,No,No,No,No,No,No,Low,7,severe dyspnea,admin1
+11813,60,male,No,Yes,No,No,No,No,Low,2,fever,point
+11814,60,male,No,Yes,No,No,No,No,Low,2,fever,point
+11815,60,female,No,Yes,No,No,No,No,Low,2,fever,point
+11816,40,female,No,Yes,No,No,No,No,Low,2,fever,point
+11818,30,female,No,No,No,No,No,No,Low,5,NA,point
+11838,40,male,No,No,No,No,No,No,Low,NA,NA,point
+11865,96,female,Yes,Yes,No,No,No,No,Low,9,"fever, cough",point
+11868,60,female,No,No,No,No,No,No,Low,NA,nausea,admin1
+11911,10,male,No,Yes,No,No,No,No,High,1,fever,admin2
+11926,62,male,No,Yes,No,No,No,Yes,Low,4,fever; fatigue,admin2
+11927,52,female,No,No,No,No,No,Yes,Low,13,chest tightness; fatigue,admin2
+11970,44,female,Yes,Yes,No,No,No,No,Low,5,cough; fever,admin2
+11971,55,female,Yes,Yes,No,Yes,No,No,Low,4,fever; nasal congestion; runny nose; sore throat; cough,admin2
+11994,20,male,No,Yes,No,No,No,No,Low,NA,fever 39.3,point
+11995,70,male,No,Yes,No,No,No,No,Low,NA,fever 38,admin1
+11996,30,female,No,Yes,No,No,No,No,Low,NA,fever 38,point
+11997,80,male,No,No,No,No,No,No,Low,NA,NA,admin2
+11998,40,female,No,No,No,No,No,No,Low,NA,NA,admin2
+11999,20,female,No,No,No,No,No,No,Low,NA,NA,point
+12000,20,female,Yes,Yes,No,No,No,No,Low,NA,"fever, cough",admin1
+12016,28,female,No,Yes,No,No,No,No,High,0,fever,admin2
+12030,1,female,No,Yes,No,No,No,No,High,0,fever,admin2
+12034,57,male,Yes,Yes,No,No,No,No,Low,7,cough; sputum; fever,admin3
+12037,52,female,Yes,No,No,No,No,No,Low,2,dry cough,admin3
+12038,41,male,Yes,No,No,No,No,No,Low,11,cough; sore body; cold,admin3
+12044,20,female,No,No,No,No,No,No,Low,7,NA,admin2
+12045,75,female,No,No,No,No,No,No,Low,14,NA,point
+12046,58,female,No,No,No,No,No,No,Low,26,NA,point
+12047,47,male,No,No,No,No,No,No,Low,7,NA,point
+12048,38,male,No,No,No,No,No,No,Low,8,NA,point
+12049,18,female,No,No,No,No,No,No,Low,NA,NA,point
+12058,40,male,No,No,No,No,No,No,Low,NA,NA,point
+12088,22,male,No,No,No,No,No,No,Low,NA,NA,point
+12095,40,male,No,No,No,No,No,No,Low,25,NA,admin1
+12096,NA,female,No,No,No,Yes,No,No,Low,16,acute pharyngitis,admin1
+12097,80,male,No,No,No,No,No,No,Low,3,NA,admin1
+12098,50,male,No,No,No,Yes,No,No,Low,21,sore throat,admin1
+12110,41,male,Yes,Yes,No,Yes,No,No,Low,NA,"fever, sore throat, mild cough",admin1
+12111,61,male,No,No,No,No,No,No,Low,NA,NA,point
+12538,21,female,No,Yes,No,No,No,No,Low,15,fever,admin1
+12539,16,male,Yes,No,No,No,No,No,Low,10,cough,admin1
+12540,80,male,No,Yes,No,No,No,No,High,0,fever,admin1
+12541,NA,female,No,Yes,No,No,No,No,Low,4,fever,admin1
+12542,33,male,Yes,Yes,No,No,No,No,Low,4,"fever, cough",admin1
+12543,55,female,Yes,No,No,No,No,No,Low,7,cough,admin1
+12545,60,female,Yes,No,No,No,No,No,Low,12,cough,admin1
+12546,60,male,No,Yes,No,No,No,No,Low,3,low fever 37.0 ℃,admin1
+12547,50,male,No,Yes,No,No,No,No,Low,4,low fever (37.4 ℃),admin1
+12548,70,male,Yes,Yes,No,No,No,No,Low,2,low fever (37.2 ° C); cough,admin1
+12549,20,male,No,Yes,No,No,No,No,Low,NA,"fever (39.5 ℃), malaise",admin1
+12550,20,female,No,Yes,No,Yes,No,No,Low,NA,"sore throat; fever, nasal discharge",admin1
+Hakodate City,NA,NA,Yes,No,No,No,No,No,Low,9,cough,point
+12553,70,female,Yes,Yes,No,No,No,No,Low,NA,"fever (37.8 ℃), cough",point
+12554,70,female,No,Yes,No,No,No,No,Low,7,"fever (38-39 ° C), malaise",point
+12555,40,male,Yes,Yes,No,No,No,No,Low,NA,"fever, cough",admin1
+12557,50,male,Yes,Yes,No,No,No,No,Low,NA,"fever 38.1 ℃ Cough, malaise, anorexia",point
+12558,40,female,Yes,No,No,Yes,No,No,Low,NA,"Discharge, cough, sore throat, chest pain",admin1
+12559,80,male,Yes,Yes,No,No,No,No,Low,NA,"fever, cough, phlegm, dyspnea",admin1
+12560,70,male,Yes,Yes,No,No,No,No,Low,NA,"fever, cough, phlegm, dyspnea",admin1
+12561,70,male,Yes,Yes,No,No,No,No,Low,NA,"fever, cough, phlegm",admin1
+12562,50,male,No,Yes,No,Yes,No,No,Low,NA,"fever 37.8 ℃ , sore throat",point
+12563,60,male,No,Yes,No,No,No,No,Low,NA,fever,point
+12564,70,male,Yes,No,No,No,No,No,Low,NA,"rever, cough",point
+12565,70,male,No,Yes,No,No,No,No,Low,NA,"fever 37.1 ℃ , couh",point
+12566,70,female,Yes,Yes,No,No,No,No,Low,NA,"fever 38.3 ℃ , cough",point
+12568,50,male,No,Yes,No,No,Yes,No,Low,12,"malaise, fever (37 ℃); headache, toothache, pneumonia",admin1
+12569,50,female,No,No,Yes,Yes,No,No,Low,NA,"Sore throat, chills",admin1
+12570,50,male,No,Yes,No,No,No,No,Low,NA,fever 38,admin1
+12572,60,female,Yes,Yes,No,No,No,No,Low,NA,"fever, cough, phlegm",admin1
+12573,40,male,Yes,Yes,No,No,Yes,No,Low,NA,"Fever, cough, headache",admin1
+12574,50,male,No,Yes,No,No,No,No,Low,NA,fever 37.2,admin1
+12575,50,male,Yes,No,No,No,No,No,Low,NA,"cough, malaise",admin1
+12576,30,male,No,Yes,No,Yes,No,No,Low,7,"sore throat, fever (38-39 ℃)",admin2
+12577,70,male,No,Yes,No,No,No,Yes,Low,NA,"fatigue, fever (38 ℃)",admin2
+12578,60,male,No,Yes,No,No,No,No,Low,NA,fever (38.3 ℃),point
+12579,40,male,Yes,Yes,No,Yes,No,No,Low,NA,"vomiting, cough, fever (38.2 ℃), sore throat",point
+12580,40,male,No,Yes,No,No,No,No,Low,NA,"fever (39 ° C), joint pain",point
+12581,0,male,Yes,Yes,No,No,No,No,Low,NA,"fever (37.4 ℃), cough",admin1
+12582,30,male,No,Yes,No,No,Yes,No,Low,NA,"fever (40.3 ℃), Headache, malaise, joint pain",admin2
+12583,0,male,Yes,Yes,No,No,No,No,Low,NA,"fever (39.9 ℃), cough",point
+12584,80,male,Yes,Yes,No,No,No,No,Low,NA,"fever (39.3 ℃), cough",point
+12585,30,male,Yes,Yes,No,No,No,No,Low,NA,"cough, fever (38.3 ℃), joint pain",point
+12586,80,male,Yes,Yes,No,No,No,No,Low,NA,"Cough, fever (38 ℃)",point
+12587,60,male,No,Yes,No,No,No,No,Low,NA,"Fever (37.4 ° C), malaise, sore throa",point
+12588,0,female,Yes,No,No,Yes,No,No,Low,NA,"cough, sore throat",point
+12589,60,female,No,Yes,No,No,No,No,Low,NA,Fever (38 ° C),point
+12590,60,male,Yes,Yes,No,No,Yes,No,Low,NA,"Fever (38.1 ° C), cough, headache.",point
+12615,25,male,No,No,No,No,No,No,Low,NA,NA,point
+12893,18,male,No,No,No,No,No,No,High,1,NA,admin1
+13431,64,female,No,No,No,No,No,No,Low,13,NA,point
+13432,44,male,No,No,No,No,No,No,Low,4,NA,point
+13450,45,male,No,No,No,No,No,No,Low,NA,NA,point
+13451,38,female,No,No,No,No,No,No,Low,2,NA,point
+13459,40,female,No,No,Yes,No,Yes,Yes,Low,NA,"chills, headache, fatigue",point
+13460,20,male,No,Yes,No,No,No,No,Low,NA,fever,point
+13461,60,male,Yes,No,No,Yes,No,No,Low,NA,"cough, sore throat",point
+13462,80,female,Yes,Yes,No,No,No,No,Low,NA,"cough, phlegm, fever 37 degrees",point
+13463,0,male,No,Yes,No,No,No,No,Low,NA,fever 39.0 ℃,point
+13464,80,male,No,Yes,No,No,No,Yes,Low,NA,"fever (38.0 ℃), Fatigue, difficulty walking",point
+13465,60,female,Yes,No,No,No,No,No,Low,NA,cough,point
+13466,60,male,No,Yes,No,No,No,No,Low,NA,fever (38.0 ℃),point
+13467,60,male,No,Yes,Yes,No,No,No,Low,NA,"chills,  fever (38 ℃), malaise",point
+13468,60,female,Yes,Yes,No,No,No,No,Low,NA,"Sputum, cough symptoms, fever (37 ℃), cough, breathing difficulty",point
+13469,40,male,No,Yes,No,No,No,No,Low,NA,"fever (37.0 ℃), fever (38.7 ℃)",point
+13470,70,male,No,Yes,No,No,No,No,Low,NA,fever (37.5 ℃ ～ 38.0 ℃),point
+13471,60,female,No,No,No,No,No,No,High,0,NA,point
+13472,60,female,Yes,Yes,No,No,No,No,Low,NA,fever and cough,point
+13473,60,male,No,Yes,No,No,No,No,Low,10,fever,point
+13475,60,male,No,Yes,No,No,No,No,Low,NA,fever (38 ° C),point
+13476,40,female,No,Yes,No,No,No,No,Low,NA,fever (38 ° C),admin1
+13656,60,male,No,No,No,No,No,No,Low,NA,mild,admin0
+13743,40,male,No,No,No,No,No,No,Low,NA,NA,admin0
+13802,34,female,No,No,No,No,No,No,Low,3,NA,point
+13803,68,female,No,No,No,No,No,No,Low,11,NA,point
+13810,60,male,No,No,No,No,No,No,Low,NA,NA,point
+13811,33,male,No,No,No,No,No,No,Low,NA,NA,point
+14881,20,male,No,No,No,No,No,No,Low,NA,NA,point
+14907,32,male,No,No,No,No,No,No,Low,NA,NA,admin2
+14912,NA,male,No,No,No,No,No,No,Low,2,NA,admin1
+14974,55,male,No,Yes,Yes,No,No,No,Low,2,"fever, chills",point
+14975,65,male,No,Yes,No,No,No,No,Low,NA,fever,point
+14976,65,male,No,Yes,No,No,No,No,Low,NA,"fever,discmfort",point
+14977,35,female,No,No,No,No,Yes,No,Low,NA,headache,admin2
+15004,42,male,No,No,No,No,No,No,High,1,NA,point
+15008,52,female,No,No,No,No,No,No,Low,2,NA,point
+15009,62,female,No,No,No,No,No,No,Low,11,NA,point
+15073,41,male,No,No,No,No,No,No,Low,NA,NA,admin2
+15075,24,male,No,No,No,No,No,No,Low,NA,NA,admin2
+15077,20,male,No,No,No,No,No,No,Low,NA,NA,admin2
+15078,85,male,No,No,No,No,No,No,Low,NA,NA,admin2
+15086,61,male,No,No,No,No,No,No,Low,NA,NA,admin2
+15109,NA,male,No,No,No,No,No,No,Low,NA,NA,admin2
+15259,NA,male,No,No,No,No,No,No,Low,NA,NA,admin2
+15282,38,male,Yes,Yes,No,Yes,Yes,No,Low,NA,"fever, headache, malaise, sore throat, cough",admin1
+15294,40,female,No,No,No,No,No,No,Low,NA,NA,point
+15353,76,male,Yes,Yes,No,Yes,No,No,High,0,"fever, sore throat, cough, shortness of breath",point
+17906,40,male,No,No,No,No,No,No,Low,4,NA,point
+17912,50,male,No,No,No,No,No,No,Low,NA,NA,point
+17913,60,female,No,No,No,No,No,No,Low,NA,NA,point
+17933,30,female,No,No,No,No,No,No,High,0,NA,admin2
+17946,NA,NA,No,No,No,No,No,No,Low,NA,NA,admin2
+17994,70,male,No,No,No,No,No,No,Low,NA,NA,admin1
+18027,37,female,No,Yes,No,No,No,No,Low,NA,"fever, runny nose, body pain, diarrhea",admin1
+18056,70,male,No,No,No,No,No,No,Low,NA,NA,point
+18058,30,female,No,No,No,No,No,No,Low,33,NA,admin1
+18530,12,female,No,No,No,No,No,No,Low,NA,NA,admin0
+18840,72,male,No,No,No,No,No,No,High,0,NA,point
+18855,18,female,No,No,No,No,No,No,High,1,NA,admin2
+18865,42,female,Yes,Yes,No,No,No,No,Low,NA,"fever, cough, nasal congestion",point
+19510,50,NA,No,No,No,No,No,No,Low,NA,NA,admin2
+19578,NA,NA,No,No,No,No,No,No,Low,NA,NA,admin2
+19868,30,male,No,No,No,No,No,No,High,1,NA,admin1
+19869,50,female,No,No,No,No,No,No,Low,6,NA,point
+19872,50,female,No,No,No,No,No,No,Low,17,NA,admin1
+19873,70,male,No,No,No,No,No,No,Low,NA,NA,point
+19876,50,male,Yes,No,No,No,No,No,Low,NA,lethargy; dry cough,point
+19877,20,female,No,No,No,No,No,No,Low,NA,NA,point
+19878,50,male,No,No,No,No,No,No,Low,NA,NA,point
+20094,54,male,No,No,No,No,No,No,Low,6,NA,point
+20095,37,female,No,No,No,No,No,No,Low,9,NA,point
+20096,25,female,No,No,No,No,No,No,Low,6,NA,point
+20097,49,male,No,No,No,No,No,No,Low,3,NA,point
+20098,61,male,No,No,No,No,No,No,Low,3,NA,point
+20099,41,female,No,No,No,No,No,No,Low,3,NA,point
+20100,27,male,No,No,No,No,No,No,Low,7,NA,point
+20101,20,male,No,No,No,No,No,No,High,1,NA,point
+20102,24,male,No,No,No,No,No,No,High,0,NA,point
+20103,44,female,No,No,No,No,No,No,Low,7,NA,point
+20105,54,male,No,No,No,No,No,No,Low,21,NA,point
+20106,35,female,No,No,No,No,No,No,Low,14,NA,point
+20162,57,female,No,No,No,No,No,No,Low,6,NA,point
+20163,70,male,No,No,No,No,No,No,Low,4,NA,point
+20164,33,male,No,No,No,No,No,No,Low,5,NA,point
+20165,43,male,No,No,No,No,No,No,Low,8,NA,point
+20167,33,female,No,No,No,No,No,No,Low,4,NA,point
+20168,55,male,No,No,No,No,No,No,Low,7,NA,point
+20169,62,female,No,No,No,No,No,No,Low,3,NA,point
+20170,54,female,No,No,No,No,No,No,Low,8,NA,point
+20171,64,female,No,No,No,No,No,No,Low,2,NA,point
+20172,47,male,No,No,No,No,No,No,Low,6,NA,point
+20173,37,female,No,No,No,No,No,No,High,0,NA,point
+20174,65,female,No,No,No,No,No,No,High,0,NA,point
+20175,77,male,No,No,No,No,No,No,Low,NA,NA,point
+20176,64,female,No,No,No,No,No,No,High,0,NA,point
+20177,70,male,No,No,No,No,No,No,High,0,NA,point
+20178,68,female,No,No,No,No,No,No,Low,2,NA,point
+20179,66,male,No,No,No,No,No,No,Low,9,NA,point
+20180,66,male,No,No,No,No,No,No,Low,3,NA,point
+20181,37,female,No,No,No,No,No,No,Low,5,NA,point
+20182,62,female,No,No,No,No,No,No,Low,6,NA,point
+20183,56,female,No,No,No,No,No,No,Low,7,NA,point
+20184,40,male,No,No,No,No,No,No,Low,8,NA,point
+20185,36,male,No,No,No,No,No,No,High,0,NA,point
+20186,60,male,No,No,No,No,No,No,High,1,NA,point
+20281,NA,NA,No,No,No,No,No,No,Low,10,NA,admin2
+20282,30,NA,No,No,No,No,No,No,Low,4,NA,admin2
+20283,50,NA,No,No,No,No,No,No,Low,4,NA,admin2
+20390,71,male,No,No,No,No,No,No,Low,3,NA,point
+20391,62,female,No,No,No,No,No,No,Low,7,NA,point
+20392,69,male,No,No,No,No,No,No,Low,5,NA,point
+20393,26,male,No,No,No,No,No,No,High,1,NA,point
+20394,42,male,No,No,No,No,No,No,High,1,NA,point
+20395,58,female,No,No,No,No,No,No,Low,4,NA,point
+20396,67,female,No,No,No,No,No,No,Low,7,NA,point
+20397,64,female,No,No,No,No,No,No,Low,3,NA,point
+20398,64,male,No,No,No,No,No,No,Low,4,NA,point
+20399,67,female,No,No,No,No,No,No,Low,7,NA,point
+20400,62,male,No,No,No,No,No,No,Low,13,NA,point
+20401,53,female,No,No,No,No,No,No,Low,7,NA,point
+20408,40,female,No,No,No,No,No,No,Low,NA,NA,admin2
+20411,51,male,No,No,No,No,No,No,Low,NA,NA,admin0
+20412,65,male,No,No,No,No,No,No,Low,8,NA,point
+20413,65,female,No,No,No,No,No,No,Low,4,NA,point
+20414,52,male,No,No,No,No,No,No,High,0,NA,point
+20415,47,female,No,No,No,No,No,No,Low,4,NA,point
+20416,50,female,No,No,No,No,No,No,High,1,NA,point
+20417,54,female,No,No,No,No,No,No,High,0,NA,point
+20418,53,female,No,No,No,No,No,No,Low,3,NA,point
+20419,59,male,No,No,No,No,No,No,Low,3,NA,point
+20482,73,male,No,No,No,No,No,No,Low,3,NA,point
+20483,28,male,No,No,No,No,No,No,Low,2,NA,point
+20574,28,male,Yes,Yes,No,No,Yes,No,Low,NA,fever; headache; phlegm,admin2
+20575,62,female,No,No,No,No,No,No,Low,NA,NA,admin2
+20576,21,male,No,No,No,No,No,No,Low,7,NA,admin2
+20600,40,female,No,No,No,No,No,No,Low,NA,NA,point
+20601,20,female,No,No,No,No,No,No,Low,NA,NA,point
+20602,50,female,No,Yes,Yes,No,No,No,Low,NA,fever; muscle aches; chills,point
+20603,40,female,Yes,No,No,No,No,No,Low,NA,dry cough,admin1
+20604,40,female,No,No,No,Yes,Yes,No,Low,NA,sore throat; headache,point
+20607,50,male,No,No,Yes,No,No,No,Low,NA,chills; abdominal pain,point
+20608,50,male,No,No,No,No,No,No,Low,NA,NA,point
+20609,13,female,No,Yes,No,Yes,No,No,Low,NA,"sore throat, fever",point
+20611,40,female,Yes,Yes,No,Yes,No,No,Low,NA,fever; cough; sore throat,point
+20613,50,male,Yes,No,No,Yes,No,No,Low,NA,cough; sore throat; body aches,point
+20615,40,female,No,No,No,No,No,No,Low,NA,NA,point
+20616,30,female,No,No,No,No,No,No,Low,NA,NA,point
+20617,40,male,No,No,No,No,No,No,Low,NA,NA,point
+20618,50,male,No,No,No,No,No,No,Low,NA,NA,point
+20620,40,male,No,No,No,No,No,No,Low,NA,NA,point
+20622,40,male,No,No,No,No,No,No,Low,NA,NA,point
+20624,30,male,No,No,No,No,No,No,Low,NA,NA,point
+20625,40,male,No,No,No,No,No,No,Low,NA,NA,point
+20626,40,male,No,No,No,No,No,No,Low,NA,NA,point
+20731,25,female,No,No,No,No,No,No,Low,NA,NA,admin1
+20732,22,male,No,No,No,No,No,No,Low,NA,NA,admin1
+20733,36,female,No,No,No,No,No,No,Low,NA,NA,admin1

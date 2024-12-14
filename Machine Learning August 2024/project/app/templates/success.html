@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+    <div class="container" style="max-width:600px">
+        <div class="px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+            <br>
+            {% if result != '' and result != 'None' %}
+                <div {% if result == "Eligible" %}
+                    class="alert alert-success mt-3"
+                {% else %}
+                    class="alert alert-danger mt-3"
+                {% endif %}
+                    role="alert">{{ result }}</div>
+            {% endif %}
+
+            <br>
+            <a class="btn btn-primary" href="{% url 'predictor:detect' %}">Back</a>
+        </div>
+    </div>
+{% endblock %}

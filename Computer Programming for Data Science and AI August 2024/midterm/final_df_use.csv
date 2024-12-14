@@ -1,0 +1,857 @@
+age,sex,cough,fever,chills,sore_throat,headache,fatigue,urgency_of_admission,days_onset_to_admission,city,province,country,latitude,longitude,date_onset_symptoms,date_admission_hospital,date_confirmation
+30,male,No,No,No,No,No,No,Low,2,"Chaohu City, Hefei City",Anhui,China,31.64696,117.7166,1/18/2020,1/20/2020,1/22/2020
+47,male,No,No,No,No,No,No,Low,11,"Baohe District, Hefei City",Anhui,China,31.79444,117.3428,1/17/2020,1/22/2020,1/23/2020
+49,male,No,No,No,No,No,No,Low,5,"High-Tech Zone, Hefei City",Anhui,China,22.65389,114.1291,1/3/2020,1/10/2020,1/21/2020
+47,female,No,No,No,No,No,No,Low,3,"High-Tech Zone, Hefei City",Anhui,China,32.1975,121.0053,,,1/26/2020
+50,female,No,No,No,No,No,No,Low,11,"Feidong County, Hefei City",Anhui,China,34.3568,117.5145,,,2/15/2020
+42,female,No,Yes,No,No,No,No,High,0,Fuyang City,Anhui,China,31.62592,119.6369,,,2/15/2020
+59,female,No,Yes,No,No,No,No,Low,5,Huainan City,Anhui,China,31.62592,119.6369,,,2/15/2020
+30,male,No,No,No,No,No,No,Low,5,Hefei City,Anhui,China,31.62592,119.6369,,,2/15/2020
+38,female,Yes,No,No,No,No,No,High,0,Chizhou City,Anhui,China,34.534,119.1325,,,2/15/2020
+45,male,No,Yes,No,No,No,No,High,0,Bengbu City,Anhui,China,34.534,119.1325,,,2/15/2020
+45,male,No,Yes,No,No,No,No,Low,2,Shijingshan District,Beijing,China,33.35701,118.9639,,,2/15/2020
+45,male,No,Yes,No,No,No,No,Low,2,Shijingshan District,Beijing,China,33.35701,118.9639,,,2/15/2020
+42,male,No,Yes,No,No,No,No,High,0,Xicheng District,Beijing,China,32.73976,119.4729,,,2/15/2020
+44,male,No,No,No,No,No,No,Low,4,,Beijing,China,31.52812,120.0767,,,1/26/2020
+65,male,No,No,No,No,No,No,High,0,,Beijing,China,33.78681,118.5202,,,2/15/2020
+21,male,No,No,No,No,No,No,High,0,,Beijing,China,31.52812,120.0767,,,2/16/2020
+41,male,No,No,No,No,No,No,High,1,,Beijing,China,31.52812,120.0767,,,2/16/2020
+44,female,No,Yes,No,No,No,Yes,High,0,Wushan County,Chongqing,China,34.3568,117.5145,,,2/16/2020
+43,female,No,No,No,No,No,No,High,0,Ningde City,Fujian,China,31.62592,119.6369,,,2/16/2020
+43,male,No,Yes,No,No,No,No,Low,3,Lanzhou City,Gansu,China,31.62592,119.6369,,,2/16/2020
+40,male,Yes,No,No,No,No,No,Low,10,Foshan City,Guangdong,China,31.62592,119.6369,,,2/16/2020
+66,male,Yes,Yes,No,No,No,Yes,Low,6,Shenzhen City,Guangdong,China,33.35701,118.9639,,,2/16/2020
+65,female,Yes,Yes,No,No,No,Yes,Low,7,Shenzhen City,Guangdong,China,33.35701,118.9639,,,2/16/2020
+36,male,Yes,Yes,No,No,No,No,Low,10,Shenzhen City,Guangdong,China,32.73976,119.4729,,,2/16/2020
+63,female,Yes,Yes,No,No,No,Yes,Low,7,Shenzhen City,Guangdong,China,33.52337,120.1736,,,1/26/2020
+37,female,No,Yes,No,Yes,No,No,Low,9,Shenzhen City,Guangdong,China,28.66149,116.0257,,,2/8/2020
+78,male,No,No,No,No,No,No,Low,0,Zhuhai City,Guangdong,China,28.66149,116.0257,,,2/8/2020
+76,female,No,No,No,No,No,No,Low,0,Zhuhai City,Guangdong,China,28.66149,116.0257,,,2/8/2020
+48,female,No,No,No,No,No,No,Low,0,Zhuhai City,Guangdong,China,28.66149,116.0257,,,2/8/2020
+66,female,Yes,No,No,No,No,No,Low,6,Zhuhai City,Guangdong,China,28.66149,116.0257,,,2/8/2020
+66,female,No,No,No,No,No,No,High,1,Beihai City,Guangxi,China,28.66149,116.0257,,,2/8/2020
+63,male,Yes,Yes,No,No,No,No,Low,7,Beihai City,Guangxi,China,28.66149,116.0257,,,2/8/2020
+62,female,Yes,Yes,No,No,No,No,Low,12,Beihai City,Guangxi,China,28.66149,116.0257,,,2/8/2020
+49,male,No,Yes,No,No,No,No,High,0,Liuzhou City,Guangxi,China,28.66149,116.0257,,,2/8/2020
+46,male,No,Yes,No,No,No,No,High,1,Wuzhou City,Guangxi,China,28.66149,116.0257,,,2/8/2020
+34,male,Yes,Yes,No,No,No,No,Low,3,Guilin City,Guangxi,China,33.78681,118.5202,,,1/26/2020
+41,male,No,Yes,No,No,No,No,Low,3,Guilin City,Guangxi,China,28.66149,116.0257,,,2/8/2020
+72,female,No,Yes,No,No,No,No,High,0,Beihai City,Guangxi,China,28.30755,114.9732,,,2/8/2020
+20,female,Yes,Yes,No,No,No,No,High,0,Beihai City,Guangxi,China,28.30755,114.9732,,,2/8/2020
+54,male,Yes,Yes,No,No,No,No,High,0,Beihai City,Guangxi,China,28.30755,114.9732,,,2/8/2020
+33,female,No,Yes,No,No,No,No,Low,2,Baise City,Guangxi,China,28.30755,114.9732,,,2/8/2020
+49,female,Yes,No,No,No,No,No,High,1,Hechi City,Guangxi,China,28.30755,114.9732,,,2/8/2020
+33,male,Yes,No,No,No,Yes,No,Low,2,Hechi City,Guangxi,China,28.30755,114.9732,,,2/8/2020
+2,female,No,Yes,No,No,No,No,High,1,Hechi City,Guangxi,China,28.30755,114.9732,,,2/8/2020
+29,male,No,No,No,No,No,No,High,0,Fangchenggang City,Guangxi,China,28.77693,117.4692,,,2/8/2020
+62,male,Yes,No,No,No,No,No,Low,8,Fangchenggang City,Guangxi,China,28.77693,117.4692,,,2/8/2020
+61,male,No,Yes,No,No,No,No,High,1,Yulin City,Guangxi,China,33.35701,118.9639,,,1/26/2020
+20,male,No,No,No,No,No,No,High,0,"Guiding County, Qiannan Prefecture",Guizhou,China,28.77693,117.4692,,,2/8/2020
+51,male,No,Yes,No,No,No,No,Low,0,Guiyang City,Guizhou,China,28.77693,117.4692,,,2/8/2020
+50,female,No,Yes,No,No,No,No,Low,7,Tongren City,Guizhou,China,28.77693,117.4692,,,2/8/2020
+72,male,Yes,Yes,No,No,No,No,High,0,Shijiazhuang City,Hebei,China,28.77693,117.4692,,,2/8/2020
+49,male,Yes,Yes,No,No,No,No,High,0,Harbin City,Heilongjiang,China,27.84546,114.8515,,,2/8/2020
+66,male,No,Yes,No,No,No,No,Low,0,Zhengzhou City,Henan,China,27.84546,114.8515,,,2/8/2020
+39,male,Yes,Yes,No,No,No,No,High,0,Hong Kong,Hong Kong,China,27.84546,114.8515,,,2/8/2020
+56,male,No,Yes,No,No,No,No,Low,3,Hong Kong,Hong Kong,China,27.84546,114.8515,,,2/8/2020
+37,male,No,Yes,No,No,No,No,High,0,Suzhou City,Jiangsu,China,27.84546,114.8515,,,2/8/2020
+27,male,No,Yes,No,No,No,No,High,0,Ganzhou City,Jiangxi,China,25.71368,115.2745,,,2/8/2020
+40,female,Yes,Yes,No,No,No,No,High,0,Ganzhou City,Jiangxi,China,32.57248,120.0575,,,1/26/2020
+42,female,Yes,Yes,No,No,No,No,High,0,Changchun City,Jilin,China,25.71368,115.2745,,,2/8/2020
+33,male,Yes,Yes,No,No,No,No,Low,6,Dalian City,Liaoning,China,25.71368,115.2745,,,2/8/2020
+50,female,No,No,No,Yes,No,No,Low,6,Shenyang City,Liaoning,China,25.71368,115.2745,,,2/8/2020
+42,male,No,No,No,No,No,No,Low,3,Chaoyang City,Liaoning,China,25.71368,115.2745,,,2/8/2020
+66,male,No,No,No,No,No,No,Low,0,Border Checkpoint,Macau,China,27.51128,116.4344,,,2/8/2020
+52,female,Yes,No,No,Yes,No,No,Low,0,Landmark Hotel,Macau,China,27.51128,116.4344,,,2/8/2020
+29,male,No,No,No,No,No,No,High,0,Yinchuan City,Ningxia,China,27.51128,116.4344,,,2/8/2020
+28,male,No,Yes,No,No,No,No,High,0,Zhongwei City,Ningxia,China,27.51128,116.4344,,,2/8/2020
+49,male,No,No,No,No,No,No,Low,2,Ankang City,Shaanxi,China,29.3255,115.4418,,,2/8/2020
+38,male,No,Yes,No,No,No,No,High,0,Weihai City,Shandong,China,32.01638,119.4537,,,1/26/2020
+62,female,No,Yes,No,No,No,No,High,0,Linyi City,Shandong,China,29.3255,115.4418,,,2/8/2020
+65,male,No,Yes,No,No,No,No,High,0,Linyi City,Shandong,China,29.30999,117.2708,,,2/8/2020
+0,male,No,Yes,No,No,Yes,No,High,1,Taiyuan City,Shanxi,China,28.66149,116.0257,,,2/13/2020
+28,female,No,Yes,No,No,No,No,High,0,Chengdu City,Sichuan,China,28.66149,116.0257,,,2/13/2020
+31,male,No,Yes,No,No,No,No,Low,0,Chengdu City,Sichuan,China,28.66149,116.0257,,,2/13/2020
+50,male,Yes,Yes,No,No,No,No,High,0,Chengdu City,Sichuan,China,28.66149,116.0257,,,2/13/2020
+48,male,No,Yes,No,No,No,No,High,0,Chengdu City,Sichuan,China,28.66149,116.0257,,,2/13/2020
+36,male,No,Yes,No,No,No,Yes,Low,2,Dazhou City,Sichuan,China,28.66149,116.0257,,,2/13/2020
+29,female,No,Yes,No,No,No,No,High,0,Tianjin City,Tianjin,China,28.66149,116.0257,,,2/13/2020
+52,male,No,Yes,No,No,No,Yes,High,0,Urumqi City,Xinjiang,China,28.30755,114.9732,,,2/13/2020
+53,male,Yes,Yes,No,No,No,No,Low,6,Kunming City,Yunnan,China,32.01638,119.4537,,,1/26/2020
+39,female,No,Yes,No,No,No,Yes,Low,4,Xishuangbanna Prefecture,Yunnan,China,28.30755,114.9732,,,2/13/2020
+46,male,No,Yes,No,No,No,No,High,0,Wenzhou City,Zhejiang,China,28.30755,114.9732,,,2/13/2020
+46,male,No,Yes,No,No,No,No,Low,13,Wenzhou City,Zhejiang,China,28.30755,114.9732,,,2/13/2020
+40,female,No,No,No,No,No,No,Low,6,"Feidong County, Hefei City",Anhui,China,28.30755,114.9732,,,2/13/2020
+51,male,No,No,No,No,No,No,Low,4,"Feidong County, Hefei City",Anhui,China,28.30755,114.9732,,,2/13/2020
+37,male,No,No,No,No,No,No,Low,3,"Lujiang County, Hefei City",Anhui,China,29.3255,115.4418,,,2/13/2020
+55,male,No,No,No,No,No,No,High,0,"Yaohai District, Hefei City",Anhui,China,29.3255,115.4418,,,2/13/2020
+32,male,No,No,No,No,No,No,High,0,Hefei City,Anhui,China,29.3255,115.4418,,,2/13/2020
+24,male,No,No,No,No,No,No,Low,4,Hefei City,Anhui,China,29.3255,115.4418,,,2/13/2020
+39,male,No,No,No,No,No,No,High,1,"Lujiang County, Hefei City",Anhui,China,29.3255,115.4418,,,2/13/2020
+25,female,No,Yes,No,No,No,No,High,0,Fuyang City,Anhui,China,18.39084,109.4197,,,1/26/2020
+56,male,No,No,No,No,No,No,High,0,Fuyang City,Anhui,China,27.84546,114.8515,,,2/13/2020
+43,male,No,Yes,No,No,No,No,High,0,Fuyang City,Anhui,China,27.84546,114.8515,,,2/13/2020
+22,male,No,Yes,No,Yes,No,No,Low,2,Fuyang City,Anhui,China,27.84546,114.8515,,,2/13/2020
+51,male,No,Yes,No,No,No,No,Low,3,Bozhou City,Anhui,China,28.77693,117.4692,,,2/13/2020
+38,male,No,No,Yes,No,Yes,No,Low,2,Bozhou City,Anhui,China,28.77693,117.4692,,,2/13/2020
+59,male,Yes,Yes,No,No,No,No,Low,2,Bozhou City,Anhui,China,28.77693,117.4692,,,2/13/2020
+60,male,Yes,Yes,No,No,No,Yes,Low,4,Bozhou City,Anhui,China,27.51356,113.9029,,,2/13/2020
+35,male,No,Yes,No,No,No,No,Low,3,Bozhou City,Anhui,China,27.51356,113.9029,,,2/13/2020
+25,female,No,Yes,No,Yes,No,No,Low,2,Bozhou City,Anhui,China,27.51128,116.4344,,,2/13/2020
+64,female,No,No,No,No,No,No,Low,10,Xi'an City,Shaanxi,China,27.51128,116.4344,,,2/13/2020
+28,male,No,No,No,No,No,No,Low,2,Ankang City,Shaanxi,China,18.39084,109.4197,,,1/26/2020
+41,male,No,No,No,No,No,No,Low,9,Ankang City,Shaanxi,China,27.84546,114.8515,,,2/7/2020
+49,male,No,Yes,No,No,No,No,Low,0,Urumqi City,Xinjiang,China,27.84546,114.8515,,,2/7/2020
+65,female,Yes,Yes,No,No,No,No,Low,4,Lingao County,Hainan,China,27.84546,114.8515,,,2/7/2020
+48,male,No,No,No,No,No,No,High,0,Bordeaux,Nouvelle-Aquitaine,France,27.84546,114.8515,,,2/7/2020
+30,female,Yes,Yes,Yes,No,No,Yes,High,1,Paris,Ile-de-France,France,27.84546,114.8515,,,2/7/2020
+31,male,Yes,Yes,Yes,No,No,No,Low,5,Paris,Ile-de-France,France,27.84546,114.8515,,,2/7/2020
+40,male,No,Yes,No,Yes,No,No,Low,6,Narita Airport,Tokyo,Japan,27.84546,114.8515,,,2/7/2020
+30,male,Yes,Yes,No,Yes,No,No,Low,7,,Tokyo,Japan,27.84546,114.8515,,,2/7/2020
+30,female,Yes,Yes,No,No,No,No,Low,9,,Tokyo,Japan,28.66149,116.0257,,,2/7/2020
+32,male,Yes,Yes,No,No,No,No,Low,4,Kathmandu,,Nepal,28.66149,116.0257,,,2/7/2020
+66,male,Yes,Yes,No,No,No,No,High,1,Singapore General Hospital,,Singapore,22.65389,114.1291,1/1/2020,1/11/2020,1/21/2020
+53,female,Yes,Yes,No,No,No,No,High,1,National Centre for Infectious Diseases,,Singapore,19.69168,109.9864,,,1/26/2020
+35,female,Yes,Yes,No,No,No,No,High,1,Incheon Airport,,South Korea,28.66149,116.0257,,,2/7/2020
+55,male,No,Yes,No,No,No,No,Low,13,Gimpo Airport,,South Korea,28.66149,116.0257,,,2/7/2020
+55,female,Yes,Yes,No,No,No,No,Low,9,Taoyuan International Airport,Taiwan,,28.66149,116.0257,,,2/7/2020
+61,female,No,Yes,Yes,Yes,Yes,No,Low,3,Bangkok,Bangkok Metropolis,Thailand,28.66149,116.0257,,,2/7/2020
+33,female,Yes,Yes,No,No,No,No,Low,0,Bangkok,Bangkok Metropolis,Thailand,28.77693,117.4692,,,2/7/2020
+60,female,No,No,No,No,No,No,Low,0,Chicago,Illinois,United States,28.77693,117.4692,,,2/7/2020
+35,male,Yes,Yes,No,No,No,No,Low,3,Snohomish County,Washington,United States,28.77693,117.4692,,,2/7/2020
+66,male,No,No,No,No,No,No,Low,5,Nha Trang,Khanh Hoa,Vietnam,28.77693,117.4692,,,2/7/2020
+28,male,No,No,No,No,No,No,Low,2,Nha Trang,Khanh Hoa,Vietnam,28.77693,117.4692,,,2/7/2020
+35,male,No,No,No,No,No,No,High,0,Sydney,New South Wales,Australia,28.77693,117.4692,,,2/7/2020
+43,male,No,No,No,No,No,No,High,0,Sydney,New South Wales,Australia,35.19603,109.0307,1/23/2020,,1/26/2020
+53,male,No,No,No,No,No,No,High,0,Sydney,New South Wales,Australia,25.71368,115.2745,,,2/7/2020
+51,male,Yes,Yes,No,No,No,No,Low,8,Bangkok,Bangkok Metropolis,Thailand,25.71368,115.2745,,,2/7/2020
+36,male,No,No,No,No,No,No,High,1,Sengkang General Hospital,,Singapore,25.71368,115.2745,,,2/7/2020
+54,male,No,Yes,Yes,No,No,No,Low,3,Seoul,Seoul,South Korea,25.71368,115.2745,,,2/7/2020
+50,male,No,No,No,No,No,No,High,1,Toronto,Ontario,Canada,25.71368,115.2745,,,2/7/2020
+40,male,No,Yes,No,No,No,No,High,1,,Tokyo,Japan,28.30755,114.9732,,,2/7/2020
+43,male,No,Yes,No,No,No,No,High,0,Ma'anshan City,Anhui,China,28.30755,114.9732,,,2/7/2020
+48,female,No,Yes,No,No,No,No,Low,4,Ma'anshan City,Anhui,China,28.30755,114.9732,,,2/7/2020
+54,female,No,Yes,No,No,No,No,Low,4,Ma'anshan City,Anhui,China,28.30755,114.9732,,,2/7/2020
+47,male,No,Yes,No,No,No,No,High,1,Ma'anshan City,Anhui,China,28.30755,114.9732,,,2/7/2020
+55,male,No,Yes,No,No,No,No,Low,6,Ma'anshan City,Anhui,China,35.19603,109.0307,,,1/26/2020
+47,female,Yes,Yes,No,No,No,No,Low,2,Ma'anshan City,Anhui,China,27.51128,116.4344,,,2/7/2020
+46,female,No,Yes,No,No,No,No,Low,3,Ma'anshan City,Anhui,China,27.51128,116.4344,,,2/7/2020
+47,female,Yes,Yes,No,No,No,Yes,Low,2,Fangchenggang City,Guangxi,China,27.51128,116.4344,,,2/7/2020
+70,female,No,No,No,No,No,No,Low,0,Tongchuan City,Shaanxi,China,29.3255,115.4418,,,2/7/2020
+44,male,No,No,No,No,No,No,Low,6,Hanzhong City,Shaanxi,China,29.3255,115.4418,,,2/7/2020
+39,female,No,Yes,No,No,No,No,Low,0,,Macau,China,28.22466,117.1077,,,2/7/2020
+21,female,No,No,No,No,No,No,Low,0,,Macau,China,26.97535,114.8248,,,2/7/2020
+50,female,No,No,No,No,No,No,Low,3,,Taiwan,,28.66149,116.0257,,,2/3/2020
+0,,No,No,No,No,No,No,High,0,Los Angeles,California,United States,28.66149,116.0257,,,2/3/2020
+68,female,Yes,Yes,No,No,No,No,Low,4,Hong Kong,Hong Kong,China,28.66149,116.0257,,,2/3/2020
+64,male,No,Yes,No,No,No,No,High,1,Hong Kong,Hong Kong,China,35.19603,109.0307,,,1/26/2020
+60,male,No,Yes,No,No,No,No,High,0,Sihanoukville City,Sihanoukville,Cambodia,28.66149,116.0257,,,2/3/2020
+44,female,No,Yes,No,No,No,No,High,0,Bengbu City,Anhui,China,28.66149,116.0257,,,2/3/2020
+39,male,No,No,No,No,No,No,High,0,Ankang City,Shaanxi,China,28.66149,116.0257,,,2/3/2020
+41,female,No,No,No,No,No,No,High,0,Ankang City,Shaanxi,China,28.66149,116.0257,,,2/3/2020
+27,male,No,No,No,No,No,No,Low,2,Ankang City,Shaanxi,China,28.66149,116.0257,,,2/3/2020
+67,female,No,No,No,No,No,No,High,1,,Macau,China,28.66149,116.0257,,,2/3/2020
+52,female,Yes,Yes,No,Yes,No,No,High,0,,Taiwan,,28.66149,116.0257,,,2/3/2020
+56,female,No,No,No,No,No,No,Low,2,,,Singapore,28.66149,116.0257,,,2/3/2020
+33,male,No,Yes,Yes,Yes,No,No,Low,0,Starnberg,Bavaria,Germany,28.66149,116.0257,,,2/3/2020
+55,male,No,Yes,No,No,No,No,Low,4,Pyeongtaek,Gyeonggi,South Korea,28.66149,116.0257,,,2/3/2020
+28,male,Yes,No,No,No,No,No,Low,3,Huainan City,Anhui,China,35.19603,109.0307,,,1/26/2020
+49,female,No,No,No,No,No,No,Low,7,"Feidong County, Hefei City",Anhui,China,28.66149,116.0257,,,2/3/2020
+25,female,No,No,No,No,No,No,Low,0,"Baohe District, Hefei City",Anhui,China,28.66149,116.0257,,,2/3/2020
+40,male,No,No,No,No,No,No,High,0,"Feidong County, Hefei City",Anhui,China,28.66149,116.0257,,,2/3/2020
+59,female,No,Yes,No,No,No,No,Low,0,Chengdu City,Sichuan,China,28.66149,116.0257,,,2/3/2020
+37,male,No,Yes,No,No,No,No,Low,0,Chengdu City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+49,male,No,Yes,No,No,No,No,Low,0,Chengdu City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+43,female,No,Yes,No,No,No,No,Low,0,Zigong City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+39,female,No,Yes,No,No,No,No,Low,0,Zigong City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+41,male,No,Yes,No,No,No,No,Low,0,Zigong City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+67,female,No,Yes,No,No,No,No,Low,0,Zigong City,Sichuan,China,35.19603,109.0307,,,1/26/2020
+52,female,No,Yes,No,No,No,No,Low,0,Zigong City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+31,male,No,Yes,No,No,No,No,Low,0,Luzhou City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+34,female,No,Yes,No,No,No,No,Low,0,Mianyang City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+24,female,No,Yes,No,No,No,No,Low,0,Suining City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+47,male,No,Yes,No,No,No,No,Low,0,Neijiang City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+16,male,No,Yes,No,No,No,No,Low,0,Neijiang City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+32,male,No,Yes,No,No,No,No,Low,0,Leshan City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+32,female,No,Yes,No,No,No,No,Low,0,Nanchong City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+25,male,No,Yes,No,No,No,No,Low,0,Nanchong City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+52,female,No,Yes,No,No,No,No,Low,0,Guang'an City,Sichuan,China,28.77693,117.4692,,,2/3/2020
+42,female,No,Yes,No,No,No,No,Low,0,Ya'an City,Sichuan,China,33.6493,109.9016,,,1/26/2020
+51,male,No,Yes,No,No,No,No,Low,0,Ganzi Prefecture,Sichuan,China,28.77693,117.4692,,,2/3/2020
+43,male,No,Yes,No,No,No,No,Low,0,Liangshan Prefecture,Sichuan,China,28.77693,117.4692,,,2/3/2020
+60,male,Yes,No,Yes,No,No,No,Low,11,,Nara Prefecture,Japan,28.77693,117.4692,,,2/3/2020
+40,female,Yes,Yes,No,No,No,No,High,1,,Hokkaido,Japan,29.3255,115.4418,,,2/3/2020
+0,female,No,Yes,No,Yes,No,No,High,0,Xishuangbanna Prefecture,Yunnan,China,29.3255,115.4418,,,2/3/2020
+36,male,No,No,No,No,No,No,High,0,Xi'an City,Shaanxi,China,29.3255,115.4418,,,2/3/2020
+41,female,No,No,No,No,No,No,Low,0,Baoji City,Shaanxi,China,29.3255,115.4418,,,2/3/2020
+25,male,No,No,No,No,No,No,High,1,Xi'an City,Shaanxi,China,29.3255,115.4418,,,2/3/2020
+46,female,No,No,No,No,No,No,High,0,Baoji City,Shaanxi,China,29.3255,115.4418,,,2/3/2020
+50,male,No,No,No,No,No,No,Low,3,Baoji City,Shaanxi,China,29.3255,115.4418,,,2/3/2020
+36,female,No,No,No,No,No,No,Low,6,Weinan City,Shaanxi,China,33.0928,107.1014,1/18/2020,1/24/2020,1/26/2020
+36,male,No,No,No,No,No,No,Low,6,Weinan City,Shaanxi,China,29.3255,115.4418,,,2/3/2020
+64,male,No,No,No,No,No,No,Low,3,Hanzhong City,Shaanxi,China,29.3255,115.4418,,,2/3/2020
+70,male,No,No,No,No,No,No,High,1,Xi'an City,Shaanxi,China,29.3255,115.4418,,,2/3/2020
+25,male,No,No,No,No,No,No,Low,3,Ankang City,Shaanxi,China,29.3255,115.4418,,,2/3/2020
+27,male,No,No,No,No,No,No,Low,0,Starnberg,Bavaria,Germany,29.3255,115.4418,,,2/3/2020
+27,male,No,No,No,No,No,No,Low,0,Starnberg,Bavaria,Germany,29.3255,115.4418,,,2/3/2020
+33,female,No,No,No,No,No,No,Low,0,Starnberg,Bavaria,Germany,27.84546,114.8515,,,2/3/2020
+50,male,No,No,No,No,No,No,High,0,,Taiwan,,27.84546,114.8515,,,2/3/2020
+22,male,No,No,No,No,No,No,High,1,Hefei City,Anhui,China,27.84546,114.8515,,,2/3/2020
+22,male,No,No,No,No,No,No,High,1,Hefei City,Anhui,China,40.54612,124.4043,,,1/26/2020
+22,female,No,No,No,No,No,No,Low,2,Hefei City,Anhui,China,27.84546,114.8515,,,2/3/2020
+22,male,No,No,No,No,No,No,High,1,Hefei City,Anhui,China,27.84546,114.8515,,,2/3/2020
+24,male,No,No,No,No,No,No,Low,3,Hefei City,Anhui,China,27.84546,114.8515,,,2/3/2020
+22,male,No,No,No,No,No,No,High,1,Hefei City,Anhui,China,27.84546,114.8515,,,2/3/2020
+30,male,No,No,No,No,No,No,Low,4,Hefei City,Anhui,China,27.84546,114.8515,,,2/3/2020
+30,female,No,No,No,No,No,No,Low,3,Hefei City,Anhui,China,27.84546,114.8515,,,2/3/2020
+64,female,No,No,No,No,No,No,Low,3,Hefei City,Anhui,China,28.30755,114.9732,,,2/3/2020
+52,female,No,No,No,No,No,No,Low,2,Hefei City,Anhui,China,28.30755,114.9732,,,2/3/2020
+45,female,No,No,No,No,No,No,Low,3,Hefei City,Anhui,China,28.30755,114.9732,,,2/3/2020
+40,male,No,No,No,No,No,No,Low,5,Hefei City,Anhui,China,28.30755,114.9732,,,2/3/2020
+52,female,No,No,No,No,No,No,Low,2,Hefei City,Anhui,China,40.54612,124.4043,,,1/26/2020
+46,female,No,No,No,No,No,No,High,1,Xi'an City,Shaanxi,China,28.30755,114.9732,,,2/3/2020
+49,male,No,No,No,No,No,No,Low,5,Hanzhong City,Shaanxi,China,28.30755,114.9732,,,2/3/2020
+29,male,No,No,No,No,No,No,Low,2,Ankang City,Shaanxi,China,28.30755,114.9732,,,2/3/2020
+26,male,No,No,No,No,No,No,High,0,Ankang City,Shaanxi,China,28.30755,114.9732,,,2/3/2020
+46,male,No,No,No,No,No,No,High,1,Baoji City,Shaanxi,China,28.30755,114.9732,,,2/3/2020
+66,male,No,No,No,No,No,No,High,0,Xi'an City,Shaanxi,China,25.71368,115.2745,,,2/3/2020
+3,female,No,No,No,No,No,No,High,0,Yan'an City,Shaanxi,China,25.71368,115.2745,,,2/3/2020
+45,female,No,No,No,No,No,No,High,0,Xi'an City,Shaanxi,China,25.71368,115.2745,,,2/3/2020
+56,female,No,No,No,No,No,No,Low,3,Lorong Lew Lian,,Singapore,25.71368,115.2745,,,2/3/2020
+56,male,No,No,No,No,No,No,Low,3,Lorong Lew Lian,,Singapore,25.71368,115.2745,,,2/3/2020
+56,male,No,No,No,No,No,No,Low,7,,,Singapore,40.54612,124.4043,,,1/26/2020
+56,male,No,No,No,No,No,No,High,1,Pasir Ris Grove,,Singapore,25.71368,115.2745,,,2/3/2020
+35,male,No,No,No,No,No,No,High,0,National Centre for Infectious Diseases,,Singapore,25.71368,115.2745,,,2/3/2020
+40,male,No,No,No,No,No,No,High,0,Vancouver,British Columbia,Canada,27.51128,116.4344,,,2/3/2020
+32,female,No,No,No,No,No,No,Low,0,Ivalo Village,Lapland,Finland,27.51128,116.4344,,,2/3/2020
+60,male,No,No,No,No,No,No,Low,0,Melbourne,Victoria,Australia,27.51128,116.4344,,,2/3/2020
+40,female,No,No,No,No,No,No,Low,3,,Osaka,Japan,27.51128,116.4344,,,2/3/2020
+30,male,No,No,No,No,No,No,Low,7,,Kanagawa Prefecture,Japan,27.51128,116.4344,,,2/3/2020
+56,female,No,No,No,No,No,No,Low,6,Hefei City,Anhui,China,27.51356,113.9029,,,2/3/2020
+49,male,No,No,No,No,No,No,Low,5,"Baohe District, Hefei City",Anhui,China,27.51356,113.9029,,,2/3/2020
+34,female,No,No,No,No,No,No,High,0,"Shushan District, Hefei City",Anhui,China,26.97535,114.8248,,,2/3/2020
+71,male,No,No,No,No,No,No,Low,3,"Yaohai District, Hefei City",Anhui,China,41.47081,121.6189,,,1/26/2020
+22,female,No,No,No,No,No,No,High,0,"Feidong County, Hefei City",Anhui,China,26.97535,114.8248,,,2/3/2020
+16,female,No,No,No,No,No,No,High,0,"Feidong County, Hefei City",Anhui,China,29.30999,117.2708,,,2/3/2020
+28,male,No,No,No,No,No,No,High,1,"Chaohu City, Hefei City",Anhui,China,28.66149,116.0257,,,2/14/2020
+47,female,No,No,No,No,No,No,Low,0,"Yaohai District, Hefei City",Anhui,China,28.66149,116.0257,,,2/14/2020
+35,male,No,No,No,No,No,No,Low,0,Hefei City,Anhui,China,28.66149,116.0257,,,2/14/2020
+37,male,No,No,No,No,No,No,Low,0,Hefei City,Anhui,China,28.66149,116.0257,,,2/14/2020
+38,female,No,No,No,No,No,No,Low,0,Manila,National Capital Region (NCR),Philippines,28.66149,116.0257,,,2/14/2020
+0,male,No,No,No,No,No,No,High,1,,Taiwan,,27.84546,114.8515,,,2/14/2020
+50,male,No,No,No,No,No,No,Low,4,,Mie,Japan,27.84546,114.8515,,,2/14/2020
+20,female,No,No,No,No,No,No,Low,5,,Kyoto Prefecture,Japan,27.84546,114.8515,,,2/14/2020
+30,female,No,No,No,No,No,No,Low,6,,Tokyo,Japan,41.47081,121.6189,,,1/26/2020
+28,male,No,No,No,No,No,No,Low,3,,Beijing,China,29.3255,115.4418,,,2/14/2020
+44,female,No,No,No,No,No,No,Low,4,,Beijing,China,27.51356,113.9029,,,2/14/2020
+33,male,No,No,No,No,No,No,Low,11,,Beijing,China,28.30755,114.9732,,,2/14/2020
+49,male,No,No,No,No,No,No,Low,3,,Beijing,China,28.77693,117.4692,,,2/14/2020
+80,male,No,No,No,No,No,No,Low,5,,Beijing,China,27.51128,116.4344,,,2/14/2020
+45,female,No,No,No,No,No,No,Low,4,,Beijing,China,28.66149,116.0257,,,2/15/2020
+45,male,No,No,No,No,No,No,Low,4,,Beijing,China,28.66149,116.0257,,,2/15/2020
+77,male,No,No,No,No,No,No,High,1,,Beijing,China,28.66149,116.0257,,,2/15/2020
+25,,No,No,No,No,No,No,High,0,,Beijing,China,28.66149,116.0257,,,2/15/2020
+55,male,No,No,No,No,No,No,High,1,Seoul,Seoul,South Korea,28.66149,116.0257,,,2/15/2020
+33,male,Yes,No,No,No,No,No,Low,3,Seoul,Seoul,South Korea,24.97854,98.96988,,,1/26/2020
+72,male,No,Yes,No,No,No,No,Low,4,Hong Kong,Hong Kong,China,29.3255,115.4418,,,2/15/2020
+73,female,No,Yes,No,No,No,No,Low,4,Hong Kong,Hong Kong,China,29.3255,115.4418,,,2/15/2020
+37,female,Yes,No,No,No,No,No,Low,2,Hong Kong,Hong Kong,China,27.84546,114.8515,,,2/15/2020
+75,male,Yes,No,No,No,No,No,Low,2,Hong Kong,Hong Kong,China,27.84546,114.8515,,,2/15/2020
+39,male,Yes,Yes,No,No,No,No,Low,11,Hong Kong,Hong Kong,China,28.30755,114.9732,,,2/15/2020
+31,male,No,No,No,No,No,No,Low,2,Jurong East,,Singapore,28.30755,114.9732,,,2/15/2020
+47,female,No,No,No,No,No,No,High,0,Changi Airport,,Singapore,26.97535,114.8248,,,2/15/2020
+38,male,No,No,No,No,No,No,Low,6,Nathan Road,,Singapore,28.30755,114.9732,,,2/16/2020
+31,female,No,No,No,No,No,No,Low,6,"Shushan District, Hefei City",Anhui,China,28.30755,114.9732,,,2/16/2020
+28,female,Yes,Yes,No,No,No,No,Low,0,"Lujiang County, Hefei City",Anhui,China,28.66149,116.0257,,,2/16/2020
+37,male,No,Yes,No,Yes,No,No,Low,3,"Yaohai District, Hefei City",Anhui,China,27.65652,104.0039,,,1/26/2020
+51,female,No,Yes,Yes,No,Yes,No,Low,5,"Lujiang County, Hefei City",Anhui,China,29.30999,117.2708,,,2/16/2020
+45,female,Yes,Yes,No,Yes,No,No,Low,5,"Feidong County, Hefei City",Anhui,China,27.51356,113.9029,,,2/16/2020
+27,female,Yes,Yes,No,No,No,No,High,1,"Changfeng County, Hefei City",Anhui,China,45.94814,123.4396,,,2/7/2020
+32,male,No,Yes,No,No,No,No,Low,4,Hefei City,Anhui,China,42.85802,125.1521,,,2/7/2020
+35,male,No,No,No,No,No,No,High,0,Hefei City,Anhui,China,43.78353,124.6729,,,2/7/2020
+34,female,No,No,No,No,No,No,High,0,Hefei City,Anhui,China,43.78353,124.6729,,,2/7/2020
+31,male,No,No,No,No,No,No,Low,11,"Chengguan District, Lanzhou City",Gansu,China,44.38803,125.769,,,2/8/2020
+66,female,No,No,No,No,No,Yes,Low,4,"Chengguan District, Lanzhou City",Gansu,China,44.38803,125.769,,,2/8/2020
+32,male,No,Yes,No,No,No,No,Low,4,"Weiyuan County, Dingxi City",Gansu,China,44.38803,125.769,,,2/8/2020
+60,male,Yes,Yes,No,No,No,No,Low,2,Gannan Prefecture,Gansu,China,44.38803,125.769,,,2/8/2020
+40,male,No,Yes,No,No,No,No,Low,2,"Dalad Banner, Ordos City",Inner Mongolia,China,24.97854,98.96988,,,1/26/2020
+0,,No,No,No,No,No,No,Low,0,,Macau,China,44.38803,125.769,,,2/8/2020
+73,male,No,No,No,No,No,No,Low,5,Ho Chi Minh City,,Vietnam,43.57227,124.4702,,,2/8/2020
+25,female,Yes,Yes,No,No,No,No,Low,9,"Hotel Ton Dan Street, Nha Trang",Khanh Hoa,Vietnam,43.57227,124.4702,,,2/8/2020
+20,female,No,No,No,No,No,No,High,0,London,Ontario,Canada,41.96159,125.9505,,,2/8/2020
+20,female,No,No,No,No,No,No,Low,3,Melbourne,Victoria,Australia,42.53434,125.7108,,,2/8/2020
+28,male,Yes,Yes,No,No,No,No,Low,3,Seoul,Seoul,South Korea,43.57227,124.4702,,,2/3/2020
+62,female,Yes,Yes,No,No,No,No,Low,9,Gunsan,,South Korea,43.57227,124.4702,,,2/3/2020
+28,female,No,No,No,No,No,No,High,1,Seoul,Seoul,South Korea,43.57227,124.4702,,,2/3/2020
+54,male,No,No,No,No,No,No,Low,2,Seoul,Seoul,South Korea,42.81178,125.3049,,,2/3/2020
+25,male,No,No,No,No,No,No,High,1,Seoul,Seoul,South Korea,42.81178,125.3049,,,2/3/2020
+49,male,No,No,No,No,No,No,Low,10,"Seoul National University, Bundang Hospital",Gyeonggi,South Korea,24.56039,98.08459,,,1/26/2020
+40,female,No,No,No,No,No,No,Low,4,"Seoul National University, Bundang Hospital",Gyeonggi,South Korea,42.81178,125.3049,,,2/3/2020
+43,male,No,No,No,No,No,No,High,0,National Guard Capital Hospital,Seoul,South Korea,43.78353,124.6729,,,2/3/2020
+20,female,Yes,No,No,No,No,No,Low,9,,Chiba Prefecture,Japan,43.78353,124.6729,,,2/3/2020
+40,male,Yes,Yes,No,No,No,No,Low,0,,,Japan,44.38803,125.769,,,2/3/2020
+20,male,No,No,No,No,No,No,Low,0,Boston,Massachusetts,United States,43.58859,126.8481,,2/3/2020,2/3/2020
+73,female,No,No,No,No,No,No,High,0,Park Royal Collection Pickering and Oasia Hotel Downtown,,Singapore,43.14674,129.1295,,,2/3/2020
+37,female,No,No,No,No,No,No,Low,3,Village Hotel Sentosa (10 Artillery Avenue),,Singapore,43.8479468,125.4124047,,,2/14/2020
+47,female,No,Yes,No,No,No,No,High,0,Changi Airport,,Singapore,42.94445,125.1762,2/8/2020,,2/14/2020
+31,female,No,No,No,No,No,No,High,1,National Centre for Infectious Diseases,,Singapore,43.8479468,125.4124047,,2/4/2020,2/13/2020
+31,female,No,No,No,No,No,No,High,0,National Centre for Infectious Diseases,,Singapore,43.75948,123.6956,2/1/2020,1/30/2020,2/13/2020
+80,male,Yes,Yes,No,No,No,No,Low,11,New Territories,Hong Kong,China,24.56039,98.08459,,,1/26/2020
+57,female,No,No,No,No,No,No,Low,5,Beijing,Beijing,China,43.18539,124.3406,,,2/12/2020
+31,female,No,No,No,No,No,No,Low,2,Beijing,Beijing,China,43.8402475,125.3458459,,,2/10/2020
+52,male,No,No,No,No,No,No,Low,5,Beijing,Beijing,China,44.38803,125.769,,,2/11/2020
+59,female,No,No,No,No,No,No,High,1,Beijing,Beijing,China,43.8813038,125.4278114,,,2/11/2020
+29,female,No,No,No,No,No,No,High,0,Beijing,Beijing,China,43.8402475,125.3458459,,,2/9/2020
+30,male,No,No,No,No,No,No,High,0,Beijing,Beijing,China,44.38803,125.769,,,2/9/2020
+77,male,No,No,No,No,No,No,Low,2,Beijing,Beijing,China,43.8296097,125.2592395,,2/14/2020,2/15/2020
+10,male,No,No,No,No,No,No,High,0,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+34,female,No,No,No,No,No,No,Low,20,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+61,female,No,No,No,No,No,No,Low,6,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+59,male,No,No,No,No,No,No,Low,3,Beijing,Beijing,China,45.64657,127.9588,,,1/26/2020
+56,female,No,No,No,No,No,No,Low,7,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+28,female,No,No,No,No,No,No,Low,3,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+61,male,No,No,No,No,No,No,High,1,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+35,male,No,No,No,No,No,No,Low,3,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+42,female,No,No,No,No,No,No,High,0,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+20,male,No,No,No,No,No,No,High,1,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+44,female,No,No,No,No,No,No,High,1,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+75,male,No,No,No,No,No,No,Low,4,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+43,female,No,No,No,No,No,No,High,1,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+66,male,No,No,No,No,No,No,High,0,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+44,male,No,No,No,No,No,No,Low,2,Beijing,Beijing,China,45.64657,127.9588,,,1/26/2020
+39,female,No,No,No,No,No,No,High,0,Beijing,Beijing,China,35.45085,139.6651,,,2/7/2020
+64,male,No,No,No,No,No,No,High,1,"Qishan County, Baoji City",Shaanxi,China,35.45085,139.6651,,,2/7/2020
+74,male,No,No,No,No,No,No,High,-2,"Wangyi District, Tongchuan City",Shaanxi,China,35.45085,139.6651,,,2/7/2020
+62,female,No,No,No,No,No,No,Low,7,"Wugong County, Xianyang City",Shaanxi,China,35.45085,139.6651,,,2/7/2020
+5,female,No,No,No,No,No,No,Low,5,"Hanbin District, Ankang City",Shaanxi,China,35.45085,139.6651,,,2/7/2020
+51,female,No,No,No,No,No,No,Low,9,"Hanbin District, Ankang City",Shaanxi,China,35.45085,139.6651,,,2/7/2020
+68,female,No,No,No,No,No,No,Low,3,Hanzhong City,Shaanxi,China,35.45085,139.6651,,,2/7/2020
+39,male,No,No,No,No,No,No,High,1,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/7/2020
+72,male,No,No,No,No,No,No,High,-2,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/7/2020
+73,female,No,No,No,No,No,No,High,-4,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/7/2020
+34,female,No,No,No,No,No,No,High,0,"Beilin District, Xi'an City",Shaanxi,China,22.65389,114.1291,1/8/2020,1/15/2020,1/21/2020
+50,female,No,No,No,No,No,No,High,1,"Xincheng District, Xi'an City",Shaanxi,China,46.35607,124.699,,,1/26/2020
+36,male,No,No,No,No,No,No,Low,2,"Gaoling County, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/7/2020
+56,female,No,No,No,No,No,No,Low,7,"Baqiao District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/7/2020
+26,male,Yes,Yes,No,No,No,No,Low,4,"Chengguan District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/7/2020
+73,female,No,Yes,No,No,No,No,Low,3,"Xigu District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/7/2020
+44,male,Yes,Yes,No,No,No,No,Low,3,"Xigu District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/7/2020
+36,male,Yes,Yes,No,No,No,No,Low,4,"Ningxian County, Qingyang City",Gansu,China,35.45085,139.6651,,,2/7/2020
+38,female,Yes,Yes,No,No,No,No,Low,5,"Linxia City, Linxia Prefecture",Gansu,China,35.45085,139.6651,,,2/7/2020
+20,female,No,No,No,No,No,No,High,0,"Lixian County, Longnan City",Gansu,China,35.45085,139.6651,,,2/7/2020
+64,female,Yes,No,No,No,No,No,Low,7,"Maiji District, Tianshui City",Gansu,China,35.45085,139.6651,,,2/7/2020
+59,male,Yes,No,No,Yes,No,No,Low,6,"Maiji District, Tianshui City",Gansu,China,35.45085,139.6651,,,2/7/2020
+39,female,No,Yes,No,No,No,No,High,0,"Maiji District, Tianshui City",Gansu,China,46.35607,124.699,,,1/26/2020
+46,female,No,No,Yes,No,No,Yes,Low,2,"Qinzhou District, Tianshui City",Gansu,China,35.45085,139.6651,,,2/7/2020
+72,female,Yes,No,No,No,No,No,High,0,"Block 1, Site 11, Whampao Garden",Hong Kong,China,35.45085,139.6651,,,2/7/2020
+47,male,Yes,Yes,No,No,No,Yes,Low,5,Fangchenggang City,Guangxi,China,35.45085,139.6651,,,2/7/2020
+52,female,No,No,No,No,No,No,Low,2,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/7/2020
+47,female,No,No,No,No,No,No,Low,3,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/7/2020
+54,male,No,No,No,No,No,No,High,-1,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/7/2020
+50,male,No,No,No,No,No,No,High,0,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/7/2020
+35,female,No,No,No,No,No,No,Low,6,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/7/2020
+37,female,No,No,No,No,No,No,High,0,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/8/2020
+24,male,No,No,No,No,No,No,High,0,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/8/2020
+50,female,No,No,No,No,No,No,High,1,Baoji City,Shaanxi,China,46.90084,126.6487,,,1/26/2020
+76,female,No,No,No,No,No,No,High,0,Tongchuan City,Shaanxi,China,35.45085,139.6651,,,2/8/2020
+38,male,No,No,No,No,No,No,High,1,Weinan City,Shaanxi,China,35.45085,139.6651,,,2/9/2020
+56,female,No,No,No,No,No,No,Low,0,Tianjin City,Tianjin,China,35.45085,139.6651,,,2/9/2020
+32,female,No,No,No,No,No,No,High,0,Tianjin City,Tianjin,China,35.45085,139.6651,,,2/9/2020
+42,female,No,Yes,No,No,No,No,Low,2,Tianjin City,Tianjin,China,35.45085,139.6651,,,2/9/2020
+66,female,No,Yes,No,No,No,No,High,0,Tianjin City,Tianjin,China,35.45085,139.6651,,,2/9/2020
+36,female,Yes,Yes,No,No,No,No,Low,5,Tianjin City,Tianjin,China,35.45085,139.6651,,,2/9/2020
+37,female,No,Yes,No,No,No,No,High,1,Tianjin City,Tianjin,China,35.45085,139.6651,,,2/12/2020
+46,female,Yes,Yes,No,No,No,No,High,0,Tianjin City,Tianjin,China,35.45085,139.6651,,,2/12/2020
+43,male,No,Yes,No,No,No,No,High,0,Tianjin City,Tianjin,China,35.45085,139.6651,,,2/12/2020
+59,male,Yes,Yes,No,No,No,No,Low,8,,Macau,China,47.70894,124.5514,,,1/26/2020
+29,female,Yes,Yes,No,No,No,No,Low,0,,Macau,China,35.45085,139.6651,,,2/12/2020
+42,female,Yes,Yes,No,No,No,No,Low,2,Chonnam National University Hospital,,South Korea,35.45085,139.6651,,,2/12/2020
+28,female,No,Yes,No,Yes,No,No,Low,5,Singapore General Hospital,,Singapore,35.45085,139.6651,,,2/12/2020
+48,female,No,No,No,No,No,No,Low,9,Hougang Street 61,,Singapore,35.45085,139.6651,,,2/12/2020
+44,female,No,No,No,No,No,No,High,1,Singapore General Hospital,,Singapore,35.45085,139.6651,,,2/12/2020
+32,female,No,No,No,No,No,No,Low,4,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/12/2020
+29,male,No,Yes,No,No,No,No,High,1,Tianjin City,Tianjin,China,35.45085,139.6651,,,2/12/2020
+69,female,No,Yes,No,No,No,No,Low,7,Tianjin City,Tianjin,China,35.45085,139.6651,,,2/12/2020
+9,male,Yes,Yes,No,No,No,No,High,0,Tianjin City,Tianjin,China,35.45085,139.6651,,,2/12/2020
+61,male,No,Yes,No,No,No,No,High,0,Tianjin City,Tianjin,China,35.45085,139.6651,,,2/12/2020
+51,male,No,No,No,No,No,No,Low,7,"High Tech Zone, Weibin District, Baoji City",Shaanxi,China,47.2681,132.2524,,,1/26/2020
+65,male,No,No,No,No,No,No,Low,7,"Danfeng County, Shangluo City",Shaanxi,China,35.45085,139.6651,,,2/12/2020
+56,male,No,No,No,No,No,No,Low,10,"Qishan County, Baoji City",Shaanxi,China,35.45085,139.6651,,,2/12/2020
+49,male,No,No,No,No,No,No,Low,6,Shangluo City,Shaanxi,China,35.45085,139.6651,,,2/12/2020
+33,male,No,Yes,No,No,No,No,Low,5,Xianyang City,Shaanxi,China,35.45085,139.6651,,,2/12/2020
+41,female,No,No,No,No,No,No,Low,7,Xianyang City,Shaanxi,China,35.45085,139.6651,,,2/12/2020
+51,male,No,No,No,No,No,No,Low,6,"Baqiao District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/12/2020
+37,male,No,No,No,No,No,No,Low,6,"Baqiao District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/12/2020
+41,male,No,No,No,No,No,No,Low,3,"Yangling District, Xianyang City",Shaanxi,China,35.45085,139.6651,,,2/12/2020
+45,female,No,No,No,No,No,No,Low,2,"Yanta District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/12/2020
+41,male,No,No,No,No,No,No,High,0,"Zhenba County, Hanzhong City",Shaanxi,China,35.45085,139.6651,,,2/12/2020
+25,male,Yes,No,No,No,No,No,Low,6,To Kwa Wan,Hong Kong,China,39.29713,117.3333,,,1/26/2020
+66,female,Yes,Yes,No,No,No,No,Low,0,Baodi District,Tianjin,China,35.45085,139.6651,,,2/12/2020
+51,female,Yes,Yes,No,No,No,No,Low,3,Baodi District,Tianjin,China,35.45085,139.6651,,,2/12/2020
+65,male,No,Yes,No,No,No,No,High,1,Baodi District,Tianjin,China,35.45085,139.6651,,,2/12/2020
+49,male,No,No,No,No,No,No,Low,3,"Beilin District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/12/2020
+49,female,Yes,No,No,No,No,No,High,1,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,35.45085,139.6651,,,2/12/2020
+60,female,No,No,No,No,No,No,Low,0,Cebu City,Cebu,Philippines,35.45085,139.6651,,,2/12/2020
+64,female,Yes,Yes,No,No,No,No,Low,9,Kowloon,Hong Kong,China,35.45085,139.6651,,,2/12/2020
+77,female,No,No,No,No,No,No,Low,3,"Chengguan District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/12/2020
+69,male,No,No,No,No,No,Yes,High,0,"Chengguan District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/12/2020
+60,male,No,No,No,No,No,No,Low,7,"Dingbian County, Yulin City",Shaanxi,China,35.45085,139.6651,,,2/12/2020
+54,female,No,Yes,No,Yes,No,Yes,Low,2,Fangchenggang City,Guangxi,China,39.29713,117.3333,,,1/26/2020
+62,male,No,Yes,No,No,No,Yes,Low,3,Fangchenggang City,Guangxi,China,35.45085,139.6651,,,2/12/2020
+60,female,No,Yes,No,Yes,No,Yes,High,1,Fangchenggang City,Guangxi,China,35.45085,139.6651,,,2/12/2020
+45,female,Yes,No,No,No,No,No,Low,4,Fangchenggang City,Guangxi,China,35.45085,139.6651,,,2/12/2020
+38,male,No,No,No,No,No,No,Low,0,Guri City,Gyeonggi,South Korea,35.45085,139.6651,,,2/12/2020
+55,female,No,Yes,No,No,No,No,Low,2,"Feixi County, Hefei City",Anhui,China,35.45085,139.6651,,,2/12/2020
+48,female,No,Yes,No,No,No,No,Low,4,"Yaohai District, Hefei City",Anhui,China,35.45085,139.6651,,,2/12/2020
+43,female,No,Yes,No,No,No,No,High,1,"Xinzhan District, Hefei City",Anhui,China,35.45085,139.6651,,,2/12/2020
+35,male,No,Yes,No,No,No,No,Low,5,"Shushan District, Hefei City",Anhui,China,35.45085,139.6651,,,2/13/2020
+29,male,No,Yes,No,No,No,No,Low,3,"Shushan District, Hefei City",Anhui,China,35.45085,139.6651,,,2/13/2020
+51,male,Yes,Yes,No,No,No,No,High,1,"Lujiang County, Hefei City",Anhui,China,35.45085,139.6651,,,2/13/2020
+35,male,No,Yes,Yes,No,No,No,Low,10,"Luyang District, Hefei City",Anhui,China,39.29713,117.3333,,,1/26/2020
+28,female,Yes,Yes,No,No,No,No,Low,4,"Xinzhan District, Hefei City",Anhui,China,35.45085,139.6651,,,2/13/2020
+78,female,No,No,No,No,No,No,Low,8,"Xinzhan District, Hefei City",Anhui,China,35.45085,139.6651,,,2/13/2020
+38,female,Yes,No,No,No,No,No,Low,4,"Xinzhan District, Hefei City",Anhui,China,35.45085,139.6651,,,2/13/2020
+36,male,Yes,Yes,No,No,No,No,Low,6,"Luyang District, Hefei City",Anhui,China,35.45085,139.6651,,,2/13/2020
+55,female,No,No,No,No,No,No,Low,0,Hong Kong,Hong Kong,China,35.45085,139.6651,,,2/13/2020
+63,female,No,No,No,No,No,No,Low,0,Hong Kong,Hong Kong,China,35.45085,139.6651,,,2/13/2020
+65,female,No,No,No,No,No,No,Low,0,Hong Kong,Hong Kong,China,35.45085,139.6651,,,2/13/2020
+68,male,No,No,No,No,No,No,Low,10,"Honggu District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/13/2020
+83,female,No,No,No,No,No,No,High,0,"Lianhu District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/13/2020
+66,female,No,No,No,No,No,No,Low,7,"Lianhu District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/13/2020
+35,female,No,No,No,No,No,No,Low,0,"Lianhu District, Xi'an City",Shaanxi,China,39.29713,117.3333,,,1/26/2020
+51,female,No,No,No,No,No,No,Low,5,"Longxi County, Dingxi City",Gansu,China,35.45085,139.6651,,,2/13/2020
+52,female,No,No,No,No,No,No,Low,3,"Maiji District, Tianshui City",Gansu,China,35.45085,139.6651,,,2/13/2020
+45,male,No,No,No,No,No,No,Low,3,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/13/2020
+41,male,No,Yes,No,No,No,No,Low,6,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/13/2020
+27,male,No,No,No,No,No,No,Low,16,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/13/2020
+22,female,No,Yes,No,No,No,No,Low,5,Qujing City,Yunnan,China,35.45085,139.6651,,,2/13/2020
+50,male,No,No,No,No,No,No,High,0,"Weiyang District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/13/2020
+77,female,No,No,No,No,No,No,High,0,"Weiyang District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/13/2020
+48,male,No,No,No,No,No,No,Low,5,"Weiyang District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/13/2020
+66,male,No,No,No,No,No,No,High,0,"Xincheng District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/13/2020
+47,male,No,No,No,No,No,No,Low,2,"Xincheng District, Xi'an City",Shaanxi,China,39.02267,115.1701,,,1/26/2020
+43,female,No,No,No,No,No,No,High,0,"Xincheng District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/13/2020
+67,female,No,No,No,No,No,No,Low,5,"Baqiao District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/13/2020
+33,male,No,No,No,No,No,No,Low,7,"Xixian New District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/13/2020
+53,female,No,No,No,No,No,No,Low,0,"Yanliang District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/13/2020
+50,female,No,No,No,No,No,No,High,0,"Yanta District, Xi'an City",Shaanxi,China,35.45085,139.6651,,,2/13/2020
+60,male,No,Yes,No,No,No,No,Low,8,Lam Tin,Hong Kong,China,35.45085,139.6651,,,2/13/2020
+62,female,No,No,No,No,No,No,High,1,"Zhenba County, Hanzhong City",Shaanxi,China,35.45085,139.6651,,,2/13/2020
+59,,No,No,No,No,No,No,Low,6,Seoul National University Hospital,Seoul,South Korea,35.45085,139.6651,,,2/13/2020
+64,female,Yes,Yes,No,No,No,No,Low,5,,Tianjin,China,35.45085,139.6651,,,2/13/2020
+35,female,No,Yes,No,No,No,No,Low,6,,Tianjin,China,35.45085,139.6651,,,2/13/2020
+75,male,No,Yes,No,No,No,No,Low,2,,Tianjin,China,22.65389,114.1291,1/2/2020,1/11/2020,1/21/2020
+61,female,No,Yes,No,No,No,No,Low,3,,Tianjin,China,39.02267,115.1701,,,1/26/2020
+50,female,Yes,Yes,No,No,No,No,Low,0,,Chiba Prefecture,Japan,35.45085,139.6651,,,2/13/2020
+30,female,No,Yes,No,No,No,No,High,1,,Chiba Prefecture,Japan,35.45085,139.6651,,,2/13/2020
+36,male,No,No,No,No,No,No,Low,4,,,South Korea,35.45085,139.6651,,,2/13/2020
+20,female,No,No,No,No,No,No,High,0,,Gwangju,South Korea,35.45085,139.6651,,,2/13/2020
+40,male,Yes,Yes,No,No,No,No,Low,3,,Chiba Prefecture,Japan,35.45085,139.6651,,,2/13/2020
+20,male,No,Yes,No,No,No,No,Low,7,,Kyoto Prefecture,Japan,35.45085,139.6651,,,2/13/2020
+50,female,No,Yes,No,No,No,No,Low,7,,Taiwan,,35.45085,139.6651,,,2/13/2020
+50,male,No,Yes,No,No,No,No,Low,9,,Taiwan,,35.45085,139.6651,,,2/13/2020
+53,male,No,No,No,No,No,No,Low,9,Changi General Hospital,,Singapore,35.45085,139.6651,,,2/13/2020
+42,female,No,No,No,No,No,No,Low,3,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/13/2020
+39,female,No,No,No,No,No,No,Low,3,Sengkang General Hospital,,Singapore,41.35324,117.5457,,,1/26/2020
+65,male,No,No,No,No,No,No,High,0,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/13/2020
+21,male,No,No,No,No,No,No,High,1,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/15/2020
+64,female,No,No,No,No,No,No,High,1,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/15/2020
+63,male,No,No,No,No,No,No,High,1,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/15/2020
+39,male,No,No,No,No,No,No,Low,2,Xi'an City,Shaanxi,China,35.45085,139.6651,,,2/15/2020
+71,male,No,No,No,No,No,No,High,0,Baoji City,Shaanxi,China,35.45085,139.6651,,,2/15/2020
+27,female,No,No,No,No,No,No,Low,6,Tongchuan City,Shaanxi,China,35.45085,139.6651,,,2/15/2020
+42,male,No,No,No,No,No,No,High,1,Hanzhong City,Shaanxi,China,35.45085,139.6651,,,2/15/2020
+25,male,No,No,No,No,No,No,Low,0,Shangluo City,Shaanxi,China,35.45085,139.6651,,,2/15/2020
+68,male,No,No,No,No,No,No,Low,3,Zunyi City,Guizhou,China,35.45085,139.6651,,,2/15/2020
+60,female,No,Yes,No,No,Yes,No,High,1,Nagoya City,Aichi Prefecture,Japan,36.55381,114.5421,,,1/26/2020
+60,male,No,Yes,No,No,No,No,Low,0,Owariasahi City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/15/2020
+60,male,Yes,Yes,No,No,No,No,High,1,Owariasahi City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/15/2020
+50,male,Yes,Yes,No,No,No,No,High,1,,Chiba Prefecture,Japan,35.45085,139.6651,,,2/15/2020
+42,female,Yes,Yes,No,No,No,No,Low,7,"Longxi County, Dingxi City",Gansu,China,35.45085,139.6651,,,2/15/2020
+26,female,Yes,Yes,No,No,No,No,Low,3,"Longxi County, Dingxi City",Gansu,China,35.45085,139.6651,,,2/15/2020
+37,male,No,Yes,No,Yes,No,No,Low,5,"Baiyin District, Baiyin City",Gansu,China,35.45085,139.6651,,,2/15/2020
+24,male,No,Yes,No,No,No,No,High,0,"Ningxian County, Qingyang City",Gansu,China,35.45085,139.6651,,,2/15/2020
+54,female,No,No,No,Yes,No,Yes,Low,14,"Longxi County, Dingxi City",Gansu,China,35.45085,139.6651,,,2/15/2020
+29,female,No,No,No,No,Yes,No,Low,11,"Longxi County, Dingxi City",Gansu,China,35.45085,139.6651,,,2/15/2020
+38,female,No,Yes,No,Yes,No,No,Low,14,"Longxi County, Dingxi City",Gansu,China,35.45085,139.6651,,,2/15/2020
+29,male,No,Yes,No,No,No,No,Low,0,"Huating County, Pingliang City",Gansu,China,36.55381,114.5421,,,1/26/2020
+68,male,No,No,No,No,No,No,Low,3,"Maiji District, Tianshui City",Gansu,China,35.45085,139.6651,,,2/15/2020
+55,female,No,No,No,Yes,No,No,Low,2,"Maiji District, Tianshui City",Gansu,China,35.45085,139.6651,,,2/15/2020
+27,female,No,Yes,No,No,No,No,Low,3,"Huating County, Pingliang City",Gansu,China,35.45085,139.6651,,,2/15/2020
+1,female,No,No,No,No,No,No,Low,8,"Huating County, Pingliang City",Gansu,China,35.45085,139.6651,,,2/15/2020
+46,female,Yes,No,No,Yes,No,No,Low,2,"Xigu District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/15/2020
+55,female,No,No,No,No,No,No,High,0,"Huating County, Pingliang City",Gansu,China,35.45085,139.6651,,,2/15/2020
+33,female,No,No,No,Yes,No,No,Low,9,"Huating County, Pingliang City",Gansu,China,35.45085,139.6651,,,2/15/2020
+23,male,Yes,Yes,No,No,No,No,Low,2,"Zhuanglang County, Pingliang City",Gansu,China,35.45085,139.6651,,,2/15/2020
+27,female,No,Yes,No,No,No,No,Low,3,"Qingcheng County, Qingyang City",Gansu,China,35.45085,139.6651,,,2/15/2020
+53,female,Yes,No,No,Yes,No,No,Low,7,Gannan Prefecture,Gansu,China,35.45085,139.6651,,,2/15/2020
+34,female,Yes,No,No,No,No,No,High,1,"Huating County, Pingliang City",Gansu,China,37.32883,112.962,,,1/26/2020
+57,male,Yes,Yes,No,No,No,No,Low,7,"Chengguan District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/15/2020
+33,male,No,No,No,No,No,No,Low,5,"Jingyuan County, Baiyin City",Gansu,China,35.45085,139.6651,,,2/15/2020
+40,female,No,No,No,No,No,No,High,0,"Xigu District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/15/2020
+49,male,No,No,No,No,No,No,Low,2,"Qilihe District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/15/2020
+29,male,No,No,No,No,No,No,High,0,"Xigu District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/15/2020
+47,male,No,No,No,No,No,No,High,0,"Xigu District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/15/2020
+54,male,No,No,No,No,No,No,High,-3,"Huating County, Pingliang City",Gansu,China,35.45085,139.6651,,,2/15/2020
+60,male,Yes,Yes,No,No,No,Yes,Low,7,Fangchenggang City,Guangxi,China,35.45085,139.6651,,,2/15/2020
+65,male,Yes,Yes,No,No,No,No,Low,15,Fangchenggang City,Guangxi,China,35.45085,139.6651,,,2/15/2020
+38,female,No,Yes,No,No,No,Yes,High,0,Fangchenggang City,Guangxi,China,35.45085,139.6651,,,2/15/2020
+26,male,Yes,Yes,No,No,No,No,Low,0,Liupanshui City,Guizhou,China,37.32883,112.962,,,1/26/2020
+27,male,Yes,Yes,No,No,No,No,Low,0,"Tianzhu County, Qiandongnan Prefecture",Guizhou,China,35.45085,139.6651,,,2/15/2020
+33,male,Yes,Yes,No,No,No,No,Low,0,Qianxinan Prefecture,Guizhou,China,35.45085,139.6651,,,2/15/2020
+51,male,No,Yes,No,No,No,No,Low,7,Tsing Yi,Hong Kong,China,35.45085,139.6651,,,2/15/2020
+43,male,Yes,No,No,No,No,No,Low,14,,Hong Kong,China,35.45085,139.6651,,,2/15/2020
+67,female,Yes,Yes,Yes,No,No,No,Low,12,Quarry Bay,Hong Kong,China,35.45085,139.6651,,,2/15/2020
+37,male,No,Yes,No,No,No,No,Low,4,Wan Chai,Hong Kong,China,35.45085,139.6651,,,2/15/2020
+50,male,No,No,No,No,No,No,Low,0,"Dongliao County, Liaoyuan City",Jilin,China,35.45085,139.6651,,,2/15/2020
+45,male,No,No,No,No,No,No,High,-2,"Shuangliao City, Siping City",Jilin,China,35.45085,139.6651,,,2/15/2020
+50,male,No,No,No,No,No,No,Low,3,Yokohama Port,Kanagawa Prefecture,Japan,35.45085,139.6651,,,2/15/2020
+60,male,No,Yes,No,No,No,No,Low,10,Yokohama,Kanagawa Prefecture,Japan,35.45085,139.6651,,,2/15/2020
+40,male,No,Yes,No,No,No,No,Low,2,,Saitama,Japan,38.06465,113.4968,,,1/26/2020
+20,male,Yes,Yes,No,Yes,No,No,Low,0,Haneda Airport,Tokyo,Japan,35.45085,139.6651,,,2/15/2020
+40,male,Yes,Yes,No,No,No,No,Low,10,,Tokyo,Japan,35.45085,139.6651,,,2/15/2020
+80,male,No,Yes,No,No,No,No,Low,0,,Tokyo,Japan,35.45085,139.6651,,,2/15/2020
+50,male,Yes,Yes,No,No,No,No,Low,10,,Tokyo,Japan,35.45085,139.6651,,,2/15/2020
+20,male,No,Yes,No,No,No,No,Low,0,,Tokyo,Japan,35.45085,139.6651,,,2/15/2020
+55,female,No,Yes,No,No,Yes,No,High,0,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,35.45085,139.6651,,,2/15/2020
+0,female,Yes,No,No,No,No,No,Low,0,"Quat Luu commune, Binh Xuyen District",Vinh Phuc,Vietnam,35.45085,139.6651,,,2/15/2020
+50,male,No,No,No,No,No,Yes,Low,0,"Son Loi commune, Binh Xuyen District",Vinh Phuc,Vietnam,35.45085,139.6651,,,2/15/2020
+50,male,No,Yes,No,No,No,No,High,-50,Yuasa-cho,Wakayama Prefecture,Japan,35.45085,139.6651,,,2/15/2020
+50,female,Yes,No,No,No,No,No,Low,0,Yuasa-cho,Wakayama Prefecture,Japan,35.45085,139.6651,,,2/15/2020
+33,male,No,No,No,No,No,No,Low,0,Zhaotong City,Yunnan,China,38.92575,99.88059,,,1/26/2020
+33,male,No,No,No,No,No,No,High,0,Zhaotong City,Yunnan,China,35.45085,139.6651,,,2/15/2020
+7,male,No,No,No,No,No,No,High,0,Zhaotong City,Yunnan,China,35.45085,139.6651,,,2/15/2020
+44,male,No,No,No,No,No,No,High,1,Kunming City,Yunnan,China,35.45085,139.6651,,,2/15/2020
+69,female,Yes,No,No,No,No,No,Low,10,Kunming City,Yunnan,China,35.45085,139.6651,,,2/15/2020
+35,female,No,No,No,No,No,No,High,1,Kunming City,Yunnan,China,35.45085,139.6651,,,2/15/2020
+43,male,No,No,No,Yes,No,No,Low,17,Dali Prefecture,Yunnan,China,35.45085,139.6651,,,2/15/2020
+47,female,No,No,No,No,No,No,Low,11,Kunming City,Yunnan,China,35.45085,139.6651,,,2/15/2020
+50,male,No,Yes,No,No,No,No,Low,32,,,Japan,35.45085,139.6651,,,2/15/2020
+40,male,No,No,No,No,No,No,Low,10,Buangkok Green,,Singapore,35.45085,139.6651,,,2/16/2020
+42,female,No,No,No,No,No,No,High,0,Park Royal Collection Pickering and Oasia Hotel Downtown,,Singapore,35.45085,139.6651,,,2/16/2020
+40,female,No,No,No,No,No,No,Low,10,National Centre for Infectious Diseases,,Singapore,36.35126,103.6554,,,1/26/2020
+64,male,No,No,No,No,No,No,Low,7,Singapore General Hospital,,Singapore,35.45085,139.6651,,,2/16/2020
+38,female,No,No,No,No,No,No,Low,11,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+53,male,No,No,No,No,No,No,Low,7,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+24,male,No,No,No,No,No,No,Low,0,National Medical Center,Seoul,South Korea,35.45085,139.6651,,,2/16/2020
+52,female,No,No,No,No,No,No,Low,4,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+51,male,No,No,No,No,No,No,Low,8,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+36,male,No,No,No,No,No,No,Low,8,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+71,male,No,No,No,No,No,No,Low,6,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+39,male,No,No,No,No,No,No,Low,6,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+54,male,No,No,No,No,No,No,Low,8,Sengkang General Hospital,,Singapore,35.45085,139.6651,,,2/16/2020
+31,male,Yes,No,No,No,No,No,Low,4,,Selangor,Malaysia,35.63012,103.2798,,,1/26/2020
+37,male,No,No,No,No,No,No,Low,6,Khoo Teck Puat Hospital,,Singapore,35.45085,139.6651,,,2/16/2020
+35,male,No,No,No,No,No,No,Low,4,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+39,male,No,No,No,No,No,No,Low,0,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+34,male,No,No,No,No,No,No,Low,9,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+46,male,No,No,No,No,No,No,Low,7,National University Hospital,,Singapore,35.45085,139.6651,,,2/16/2020
+48,male,No,No,No,No,No,No,Low,7,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+37,male,No,No,No,No,No,No,Low,4,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+54,male,No,No,No,No,No,No,Low,2,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+62,male,No,No,No,No,No,No,Low,4,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+39,female,Yes,Yes,No,No,No,No,High,1,Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur,Malaysia,35.45085,139.6651,,,2/16/2020
+20,male,Yes,Yes,No,No,No,No,Low,8,,Chiba Prefecture,Japan,22.65389,114.1291,,,1/21/2020
+80,female,No,No,No,No,No,Yes,Low,10,,Kanagawa Prefecture,Japan,44.24353,115.5438,,,1/26/2020
+50,male,No,Yes,No,No,No,No,Low,10,,Wakayama Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+70,male,No,Yes,No,No,No,No,Low,8,,Tokyo,Japan,35.45085,139.6651,,,2/16/2020
+60,male,No,No,No,No,No,No,Low,5,,Aichi Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+50,male,Yes,Yes,No,No,No,No,Low,0,,Hokkaido,Japan,35.45085,139.6651,,,2/16/2020
+61,male,No,Yes,No,No,No,No,Low,5,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+51,female,No,No,No,No,No,No,Low,4,Ang Mo Kio Avenue 3,,Singapore,35.45085,139.6651,,,2/16/2020
+57,male,No,No,No,No,No,No,Low,6,Jurong West Street 64,,Singapore,35.45085,139.6651,,,2/16/2020
+44,female,No,No,No,No,No,No,Low,3,Tanjong Pagar Road,,Singapore,35.45085,139.6651,,,2/16/2020
+54,female,No,No,No,No,No,No,Low,3,Potong Pasir Avenue 3,,Singapore,35.45085,139.6651,,,2/16/2020
+50,male,No,No,No,No,No,No,Low,10,Jurong West Street 81,,Singapore,35.45085,139.6651,,,2/16/2020
+60,female,No,No,No,No,No,No,High,0,,Okinawa,Japan,49.71785,121.2179,,,1/26/2020
+70,male,No,No,No,No,No,No,Low,5,,Wakayama Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+57,female,No,No,No,No,No,No,Low,2,National Medical Center,Seoul,South Korea,35.45085,139.6651,,,2/16/2020
+27,male,No,No,No,No,No,No,Low,0,Hospital Sultanah Bahiyah,Kedah,Malaysia,35.45085,139.6651,,,2/16/2020
+79,female,No,No,No,No,No,No,Low,0,Mei Hwan Drive,,Singapore,35.45085,139.6651,,,2/16/2020
+26,male,No,No,No,No,No,No,Low,3,,,Singapore,35.45085,139.6651,,,2/16/2020
+27,female,No,No,No,No,No,No,Low,11,Mei Hwan Drive,,Singapore,35.45085,139.6651,,,2/16/2020
+25,male,No,No,No,No,No,No,Low,0,Fernvale Road,,Singapore,35.45085,139.6651,,,2/16/2020
+40,male,No,No,No,No,No,No,Low,4,Woodlands Crescent,,Singapore,35.45085,139.6651,,,2/16/2020
+60,male,Yes,No,No,No,No,No,Low,7,,Taiwan,,35.45085,139.6651,,,2/16/2020
+43,male,No,No,No,No,No,No,Low,5,Lorong 8 Toa Payoh,,Singapore,35.45085,139.6651,,,2/16/2020
+29,male,No,No,No,No,No,No,Low,3,Mei Ling Street,,Singapore,43.22626,118.8826,,,1/26/2020
+35,male,No,No,No,No,No,No,Low,2,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+30,male,Yes,Yes,No,No,No,No,Low,0,,Taiwan,,35.45085,139.6651,,,2/16/2020
+65,male,No,No,No,No,No,No,High,0,Haikou City,Hainan,China,35.45085,139.6651,,,2/16/2020
+73,male,No,No,No,No,No,No,Low,12,Chengmai County,Hainan,China,35.45085,139.6651,,,2/16/2020
+57,female,No,No,No,No,No,No,Low,8,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+35,female,No,No,No,No,No,No,Low,5,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+38,female,No,No,No,No,No,No,Low,13,National University Hospital,,Singapore,35.45085,139.6651,,,2/16/2020
+50,male,No,No,No,No,No,No,High,1,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/16/2020
+38,male,No,No,No,No,No,No,Low,0,Codogno,Lombardia,Italy,35.45085,139.6651,,,2/16/2020
+0,male,No,No,No,No,No,No,High,-29,Codogno,Lombardia,Italy,35.45085,139.6651,,,2/16/2020
+20,female,No,Yes,No,No,No,No,Low,2,Kumamoto City,Kumamoto,Japan,39.42306,108.6337,,,1/26/2020
+50,female,No,No,No,No,No,No,Low,8,,Tokyo,Japan,35.45085,139.6651,,,2/16/2020
+70,female,No,No,No,No,No,No,Low,0,,Tokyo,Japan,35.45085,139.6651,,,2/16/2020
+50,female,No,No,No,No,No,No,Low,0,,Tokyo,Japan,35.45085,139.6651,,,2/16/2020
+70,male,No,No,No,No,No,No,High,1,Nagoya City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+20,female,No,No,No,No,No,No,High,1,Nagoya City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+60,male,No,No,No,No,No,No,Low,15,Katsuura,Chiba Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+50,male,No,Yes,No,No,No,No,Low,4,,Ishikawa,Japan,35.45085,139.6651,,,2/16/2020
+0,male,No,Yes,No,No,No,No,Low,13,,Saitama,Japan,35.45085,139.6651,,,2/16/2020
+0,male,No,Yes,No,No,No,No,Low,4,Nakafurano,Hokkaido,Japan,35.45085,139.6651,,,2/16/2020
+0,male,No,Yes,No,No,No,No,High,1,Nakafurano,Hokkaido,Japan,35.45085,139.6651,,,2/16/2020
+40,female,No,Yes,No,No,No,No,Low,0,Chitose,Hokkaido,Japan,39.42306,108.6337,,,1/26/2020
+80,male,No,No,No,No,No,No,Low,23,Sagamihara City,Kanagawa Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+60,female,Yes,Yes,No,No,No,No,Low,7,Chiba City,Chiba Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+50,female,No,No,No,No,No,No,Low,0,Hakodate City,Hokkaido,Japan,35.45085,139.6651,,,2/16/2020
+60,male,Yes,Yes,No,No,No,No,Low,0,Hakodate City,Hokkaido,Japan,35.45085,139.6651,,,2/16/2020
+13,female,No,Yes,No,No,No,No,Low,0,Tomakomai City,Hokkaido,Japan,35.45085,139.6651,,,2/16/2020
+70,female,No,Yes,No,No,No,No,Low,0,Tomakomai City,Hokkaido,Japan,35.45085,139.6651,,,2/16/2020
+50,female,No,No,No,No,Yes,No,Low,0,Nemuro City,Hokkaido,Japan,35.45085,139.6651,,,2/16/2020
+50,male,No,Yes,No,No,No,No,Low,0,Kitami City,Hokkaido,Japan,35.45085,139.6651,,,2/16/2020
+70,male,Yes,Yes,No,No,No,No,Low,0,Asahikawa City,Hokkaido,Japan,35.45085,139.6651,2/14/2020,2/17/2020,2/16/2020
+50,female,Yes,Yes,No,Yes,No,No,Low,0,Ebetsu,Hokkaido,Japan,35.45085,139.6651,,,2/16/2020
+80,male,No,No,No,No,No,No,Low,0,Shiriuchi,Hokkaido,Japan,22.38074,114.1324,,,1/26/2020
+50,female,No,Yes,No,No,No,No,Low,5,,Chiba Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+60,male,No,No,No,No,No,No,Low,7,,Tokyo,Japan,35.45085,139.6651,,,2/16/2020
+60,male,No,Yes,No,No,No,No,Low,2,Nagoya City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+60,male,No,Yes,No,No,No,No,Low,2,Nagoya City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+60,female,No,Yes,No,No,No,No,Low,2,Nagoya City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+40,female,No,Yes,No,No,No,No,Low,2,Nagoya City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+30,female,No,No,No,No,No,No,Low,5,Hougang Street 91,,Singapore,35.45085,139.6651,,,2/16/2020
+40,male,No,No,No,No,No,No,Low,0,Torino,Piemonte,Italy,35.45085,139.6651,,,2/16/2020
+96,female,Yes,Yes,No,No,No,No,Low,9,Tin Hau,Hong Kong,China,35.45085,139.6651,,,2/16/2020
+60,female,No,No,No,No,No,No,Low,0,,Chiba Prefecture,Japan,35.45085,139.6651,,,2/16/2020
+10,male,No,Yes,No,No,No,No,High,1,Fangchenggang City,Guangxi,China,22.15891,113.5611,,,1/26/2020
+62,male,No,Yes,No,No,No,Yes,Low,4,Fangchenggang City,Guangxi,China,35.45085,139.6651,,,2/16/2020
+52,female,No,No,No,No,No,Yes,Low,13,Fangchenggang City,Guangxi,China,35.45085,139.6651,,,2/16/2020
+44,female,Yes,Yes,No,No,No,No,Low,5,Fangchenggang City,Guangxi,China,35.45085,139.6651,,,2/16/2020
+55,female,Yes,Yes,No,Yes,No,No,Low,4,Fangchenggang City,Guangxi,China,35.45085,139.6651,,,2/17/2020
+20,male,No,Yes,No,No,No,No,Low,0,Biei Town,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+70,male,No,Yes,No,No,No,No,Low,0,,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+30,female,No,Yes,No,No,No,No,Low,0,Kushiro City,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+80,male,No,No,No,No,No,No,Low,0,Iburi,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+40,female,No,No,No,No,No,No,Low,0,Iburi,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+20,female,No,No,No,No,No,No,Low,0,Ishikari,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+20,female,Yes,Yes,No,No,No,No,Low,0,,Taiwan,,22.15891,113.5611,1/22/2020,,1/26/2020
+28,female,No,Yes,No,No,No,No,High,0,Jincheng City,Shanxi,China,35.45085,139.6651,,,2/17/2020
+1,female,No,Yes,No,No,No,No,High,0,Lanzhou City,Gansu,China,35.45085,139.6651,,,2/17/2020
+57,male,Yes,Yes,No,No,No,No,Low,7,"Chengguan District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/17/2020
+52,female,Yes,No,No,No,No,No,Low,2,"Qilihe District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/17/2020
+41,male,Yes,No,No,No,No,No,Low,11,"Chengguan District, Lanzhou City",Gansu,China,35.45085,139.6651,,,2/17/2020
+20,female,No,No,No,No,No,No,Low,7,Linxia Prefecture,Gansu,China,35.45085,139.6651,,,2/17/2020
+75,female,No,No,No,No,No,No,Low,14,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/17/2020
+58,female,No,No,No,No,No,No,Low,26,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/17/2020
+47,male,No,No,No,No,No,No,Low,7,Sengkang General Hospital,,Singapore,35.45085,139.6651,,,2/17/2020
+38,male,No,No,No,No,No,No,Low,8,Ng Teng Fong General Hospital,,Singapore,35.45085,139.6651,,,2/17/2020
+18,female,No,No,No,No,No,No,Low,0,Helsinki,Southern Finland,Finland,22.15891,113.5611,1/25/2020,,1/26/2020
+40,male,No,No,No,No,No,No,Low,0,Fraser Valley,British Columbia,Canada,35.45085,139.6651,,,2/17/2020
+22,male,No,No,No,No,No,No,Low,0,Karachi,Sindh,Pakistan,35.45085,139.6651,,,2/17/2020
+40,male,No,No,No,No,No,No,Low,25,,Taiwan,,35.45085,139.6651,,,2/17/2020
+0,female,No,No,No,Yes,No,No,Low,16,,Taiwan,,35.45085,139.6651,,,2/17/2020
+80,male,No,No,No,No,No,No,Low,3,,Taiwan,,35.45085,139.6651,,,2/17/2020
+50,male,No,No,No,Yes,No,No,Low,21,,Taiwan,,35.45085,139.6651,,,2/17/2020
+41,male,Yes,Yes,No,Yes,No,No,Low,0,,North Rhine-Westphalia,Germany,35.45085,139.6651,,,2/17/2020
+61,male,No,No,No,No,No,No,Low,0,Sao Paulo,,Brazil,35.45085,139.6651,,,2/17/2020
+21,female,No,Yes,No,No,No,No,Low,15,Hong Kong,Hong Kong,China,35.45085,139.6651,,,2/17/2020
+16,male,Yes,No,No,No,No,No,Low,10,Hong Kong,Hong Kong,China,35.45085,139.6651,,,2/17/2020
+80,male,No,Yes,No,No,No,No,High,0,Hong Kong,Hong Kong,China,35.95574,106.1836,,,1/26/2020
+0,female,No,Yes,No,No,No,No,Low,4,Hong Kong,Hong Kong,China,35.45085,139.6651,,,2/17/2020
+33,male,Yes,Yes,No,No,No,No,Low,4,Hong Kong,Hong Kong,China,35.45085,139.6651,,,2/17/2020
+55,female,Yes,No,No,No,No,No,Low,7,Hong Kong,Hong Kong,China,35.45085,139.6651,,,2/17/2020
+60,female,Yes,No,No,No,No,No,Low,12,Hong Kong,Hong Kong,China,35.45085,139.6651,,,2/17/2020
+60,male,No,Yes,No,No,No,No,Low,3,,Chiba Prefecture,Japan,35.45085,139.6651,,,2/17/2020
+50,male,No,Yes,No,No,No,No,Low,4,,Chiba Prefecture,Japan,35.45085,139.6651,,,2/17/2020
+70,male,Yes,Yes,No,No,No,No,Low,2,,Chiba Prefecture,Japan,35.45085,139.6651,,,2/17/2020
+20,male,No,Yes,No,No,No,No,Low,0,,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+20,female,No,Yes,No,Yes,No,No,Low,0,,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+70,female,Yes,Yes,No,No,No,No,Low,0,Shinhidaka,Hokkaido,Japan,22.65389,114.1291,,,1/21/2020
+70,female,No,Yes,No,No,No,No,Low,7,Shinhidaka,Hokkaido,Japan,23.75947,120.9559,1/22/2020,1/25/2020,1/26/2020
+40,male,Yes,Yes,No,No,No,No,Low,0,,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+50,male,Yes,Yes,No,No,No,No,Low,0,Atsugi,Kanagawa Prefecture,Japan,35.45085,139.6651,,,2/17/2020
+40,female,Yes,No,No,Yes,No,No,Low,0,,Osaka,Japan,35.45085,139.6651,,,2/17/2020
+80,male,Yes,Yes,No,No,No,No,Low,0,,Tokyo,Japan,35.45085,139.6651,,,2/17/2020
+70,male,Yes,Yes,No,No,No,No,Low,0,,Tokyo,Japan,35.45085,139.6651,,,2/17/2020
+70,male,Yes,Yes,No,No,No,No,Low,0,,Tokyo,Japan,35.45085,139.6651,,,2/17/2020
+50,male,No,Yes,No,Yes,No,No,Low,0,Nagoya City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/17/2020
+60,male,No,Yes,No,No,No,No,Low,0,Nagoya City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/17/2020
+70,male,Yes,No,No,No,No,No,Low,0,Nagoya City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/17/2020
+70,male,No,Yes,No,No,No,No,Low,0,Nagoya City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/17/2020
+70,female,Yes,Yes,No,No,No,No,Low,0,Nagoya City,Aichi Prefecture,Japan,43.46793,82.0969,,,1/26/2020
+50,male,No,Yes,No,No,Yes,No,Low,12,,Gifu,Japan,35.45085,139.6651,,,2/17/2020
+50,female,No,No,Yes,Yes,No,No,Low,0,,Gifu,Japan,35.45085,139.6651,,,2/17/2020
+50,male,No,Yes,No,No,No,No,Low,0,,Ishikawa,Japan,35.45085,139.6651,,,2/17/2020
+60,female,Yes,Yes,No,No,No,No,Low,0,,Tokyo,Japan,35.45085,139.6651,,,2/17/2020
+40,male,Yes,Yes,No,No,Yes,No,Low,0,,Osaka,Japan,35.45085,139.6651,,,2/17/2020
+50,male,No,Yes,No,No,No,No,Low,0,,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+50,male,Yes,No,No,No,No,No,Low,0,,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+30,male,No,Yes,No,Yes,No,No,Low,7,Okhotsk,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+70,male,No,Yes,No,No,No,Yes,Low,0,Okhotsk,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+60,male,No,Yes,No,No,No,No,Low,0,Kushiro City,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+40,male,Yes,Yes,No,Yes,No,No,Low,0,Kushiro City,Hokkaido,Japan,36.82615,101.4437,,1/24/2020,1/26/2020
+40,male,No,Yes,No,No,No,No,Low,0,Takikawa,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+0,male,Yes,Yes,No,No,No,No,Low,0,,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+30,male,No,Yes,No,No,Yes,No,Low,0,Okhotsk,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+0,male,Yes,Yes,No,No,No,No,Low,0,Tokachi,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+80,male,Yes,Yes,No,No,No,No,Low,0,Biei Town,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+30,male,Yes,Yes,No,No,No,No,Low,0,Hiyama,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+80,male,Yes,Yes,No,No,No,No,Low,0,Hiyama,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+60,male,No,Yes,No,No,No,No,Low,0,Yakumo,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+0,female,Yes,No,No,Yes,No,No,Low,0,Kikonai,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+60,female,No,Yes,No,No,No,No,Low,0,Nagoya City,Aichi Prefecture,Japan,35.45085,139.6651,,,2/17/2020
+60,male,Yes,Yes,No,No,Yes,No,Low,0,Nagoya City,Aichi Prefecture,Japan,36.82615,101.4437,,1/24/2020,1/26/2020
+25,male,No,No,No,No,No,No,Low,0,Zagreb,,Croatia,35.45085,139.6651,,,2/17/2020
+18,male,No,No,No,No,No,No,High,1,,Castilla y Leon,Spain,35.45085,139.6651,,,2/17/2020
+64,female,No,No,No,No,No,No,Low,13,Singapore General Hospital,,Singapore,35.45085,139.6651,,,2/17/2020
+44,male,No,No,No,No,No,No,Low,4,National Centre for Infectious Diseases,,Singapore,35.45085,139.6651,,,2/17/2020
+45,male,No,No,No,No,No,No,Low,0,Maramures,,Romania,35.45085,139.6651,,,2/17/2020
+38,female,No,No,No,No,No,No,Low,2,Timisoara,,Romania,35.45085,139.6651,,,2/17/2020
+40,female,No,No,Yes,No,Yes,Yes,Low,0,Sagamihara City,Kanagawa Prefecture,Japan,35.45085,139.6651,,,2/17/2020
+20,male,No,Yes,No,No,No,No,Low,0,Sagamihara City,Kanagawa Prefecture,Japan,35.45085,139.6651,,,2/17/2020
+60,male,Yes,No,No,Yes,No,No,Low,0,Shizuoka City,Shizuoka,Japan,35.45085,139.6651,,,2/17/2020
+80,female,Yes,Yes,No,No,No,No,Low,0,Setana,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+0,male,No,Yes,No,No,No,No,Low,0,Chitose,Hokkaido,Japan,36.82615,101.4437,,1/24/2020,1/26/2020
+80,male,No,Yes,No,No,No,Yes,Low,0,Fukagawa,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+60,female,Yes,No,No,No,No,No,Low,0,Kamikawa,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+60,male,No,Yes,No,No,No,No,Low,0,Nakafurano,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+60,male,No,Yes,Yes,No,No,No,Low,0,Kitami City,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+60,female,Yes,Yes,No,No,No,No,Low,0,Kitami City,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+40,male,No,Yes,No,No,No,No,Low,0,Kushiro City,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+70,male,No,Yes,No,No,No,No,Low,0,Kushiro City,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+60,female,No,No,No,No,No,No,High,0,Sapporo City,Hokkaido,Japan,35.45085,139.6651,,,2/17/2020
+60,female,Yes,Yes,No,No,No,No,Low,0,Sapporo City,Hokkaido,Japan,35.45085,139.6651,2/3/2020,2/13/2020,2/18/2020
+60,male,No,Yes,No,No,No,No,Low,10,Sapporo City,Hokkaido,Japan,39.59944,122.2224,,,2/7/2020
+60,male,No,Yes,No,No,No,No,Low,0,Nagoya City,Aichi Prefecture,Japan,34.05,-118.25,1/22/2020,1/22/2020,1/26/2020
+40,female,No,Yes,No,No,No,No,Low,0,,Osaka,Japan,39.59944,122.2224,,,2/7/2020
+60,male,No,No,No,No,No,No,Low,0,,,Iceland,41.18291,123.2453,,,2/7/2020
+40,male,No,No,No,No,No,No,Low,0,,,Tunisia,41.47081,121.6189,,,2/7/2020
+34,female,No,No,No,No,No,No,Low,3,Ng Teng Fong General Hospital,,Singapore,39.59944,122.2224,,,2/4/2020
+68,female,No,No,No,No,No,No,Low,11,Tan Tock Seng Hospital,,Singapore,42.2807,121.9557,,,2/4/2020
+60,male,No,No,No,No,No,No,Low,0,Porto,,Portugal,42.2807,121.9557,,,2/4/2020
+33,male,No,No,No,No,No,No,Low,0,Porto,,Portugal,39.6132096,2.3511398,,,2/9/2020
+20,male,No,No,No,No,No,No,Low,0,Brisbane,Queensland,Australia,37.28727,106.1671,,,2/7/2020
+32,male,No,No,No,No,No,No,Low,0,Heilbronn District,Baden-Wurttemberg,Germany,37.28727,106.1671,,,2/7/2020
+0,male,No,No,No,No,No,No,Low,2,,Hamburg,Germany,37.07805,106.1527,,,2/13/2020
+55,male,No,Yes,Yes,No,No,No,Low,2,Kitami City,Hokkaido,Japan,33.41278,-111.943,,,1/26/2020
+65,male,No,Yes,No,No,No,No,Low,0,Asahikawa City,Hokkaido,Japan,37.07805,106.1527,,,2/13/2020
+65,male,No,Yes,No,No,No,No,Low,0,Asahikawa City,Hokkaido,Japan,37.07805,106.1527,,,2/13/2020
+35,female,No,No,No,No,Yes,No,Low,0,Matsuyama,Ehime,Japan,37.28727,106.1671,,,2/6/2020
+42,male,No,No,No,No,No,No,High,1,National Centre for Infectious Diseases,,Singapore,37.28727,106.1671,,,2/6/2020
+52,female,No,No,No,No,No,No,Low,2,National Centre for Infectious Diseases,,Singapore,37.28727,106.1671,,,2/6/2020
+62,female,No,No,No,No,No,No,Low,11,National Centre for Infectious Diseases,,Singapore,13.8538,100.5228,,,2/8/2020
+41,male,No,No,No,No,No,No,Low,0,Freiburg,Baden-Wurttemberg,Germany,13.8538,100.5228,,,2/8/2020
+24,male,No,No,No,No,No,No,Low,0,Mannheim,Baden-Wurttemberg,Germany,13.8538,100.5228,,,2/8/2020
+20,male,No,No,No,No,No,No,Low,0,Heilbronn District,Baden-Wurttemberg,Germany,13.8538,100.5228,,,2/8/2020
+85,male,No,No,No,No,No,No,Low,0,Heilbronn District,Baden-Wurttemberg,Germany,13.8538,100.5228,,,2/8/2020
+61,male,No,No,No,No,No,No,Low,0,Zollernalb District,Baden-Wurttemberg,Germany,39.9064,113.7186,,,1/26/2020
+0,male,No,No,No,No,No,No,Low,0,Konstanz District,Baden-Wurttemberg,Germany,13.8538,100.5228,,,2/8/2020
+0,male,No,No,No,No,No,No,Low,0,Segeberg,Schleswig-Holstein,Germany,13.8538,100.5228,,,2/8/2020
+38,male,Yes,Yes,No,Yes,Yes,No,Low,0,,Kwazulu-Natal,South Africa,37.8007,100.2712,,,2/3/2020
+40,female,No,No,No,No,No,No,Low,0,Montreal,Quebec,Canada,37.8007,100.2712,,,2/3/2020
+76,male,Yes,Yes,No,Yes,No,No,High,0,Thimphu,,Bhutan,44.95971,10.68922,,,2/6/2020
+40,male,No,No,No,No,No,No,Low,4,Sydney,New South Wales,Australia,35.99736,139.3476,2/8/2020,2/10/2020,2/10/2020
+50,male,No,No,No,No,No,No,Low,0,Sydney,New South Wales,Australia,34.10727,108.7872,,,2/8/2020
+60,female,No,No,No,No,No,No,Low,0,Sydney,New South Wales,Australia,34.10727,108.7872,,,2/8/2020
+30,female,No,No,No,No,No,No,High,0,Douglas County,Nebraska,United States,34.10727,108.7872,,,2/8/2020
+0,,No,No,No,No,No,No,Low,0,Ramsey County,Minnesota,United States,34.10727,108.7872,,,2/8/2020
+70,male,No,No,No,No,No,No,Low,0,,New South Wales,Australia,36.22827,111.3768,,,1/26/2020
+37,female,No,Yes,No,No,No,No,Low,0,,Espirito Santo,Brazil,34.10727,108.7872,,,2/8/2020
+70,male,No,No,No,No,No,No,Low,0,Toorak,Victoria,Australia,34.10727,108.7872,,,2/8/2020
+30,female,No,No,No,No,No,No,Low,33,,Victoria,Australia,34.10727,108.7872,,,2/8/2020
+12,female,No,No,No,No,No,No,Low,0,,,Malta,34.10727,108.7872,,,2/8/2020
+72,male,No,No,No,No,No,No,High,0,Galati,Moldavia,Romania,34.78867,108.3897,,,2/8/2020
+18,female,No,No,No,No,No,No,High,1,Johnson County,Kansas,United States,36.44222,109.3161,,,2/8/2020
+42,female,Yes,Yes,No,No,No,No,Low,0,Rio de Janeiro,Rio de Janeiro,Brazil,38.04761,109.5704,,,2/8/2020
+50,,No,No,No,No,No,No,Low,0,Carver County,Minnesota,United States,32.44509,108.4337,,,2/14/2020
+0,,No,No,No,No,No,No,Low,0,Honolulu County,Hawaii,United States,34.10727,108.7872,,,2/9/2020
+30,male,No,No,No,No,No,No,High,1,,Victoria,Australia,34.10727,108.7872,,,2/9/2020
+50,female,No,No,No,No,No,No,Low,6,Melbourne,Victoria,Australia,37.68364,111.2616,,,1/26/2020
+50,female,No,No,No,No,No,No,Low,17,,Victoria,Australia,34.10727,108.7872,,,2/9/2020
+70,male,No,No,No,No,No,No,Low,0,Melbourne,Victoria,Australia,34.10727,108.7872,,,2/9/2020
+50,male,Yes,No,No,No,No,No,Low,0,Melbourne,Victoria,Australia,34.10727,108.7872,,,2/9/2020
+20,female,No,No,No,No,No,No,Low,0,Melbourne,Victoria,Australia,34.10727,108.7872,,,2/9/2020
+50,male,No,No,No,No,No,No,Low,0,Melbourne,Victoria,Australia,34.10727,108.7872,,,2/9/2020
+54,male,No,No,No,No,No,No,Low,6,Changi General Hospital,,Singapore,34.10727,108.7872,,,2/9/2020
+37,female,No,No,No,No,No,No,Low,9,National Centre for Infectious Diseases,,Singapore,34.38244,107.2001,,,2/9/2020
+25,female,No,No,No,No,No,No,Low,6,National Centre for Infectious Diseases,,Singapore,34.95553,109.8585,,,2/9/2020
+49,male,No,No,No,No,No,No,Low,3,National Centre for Infectious Diseases,,Singapore,34.95553,109.8585,,,2/9/2020
+61,male,No,No,No,No,No,No,Low,3,Ng Teng Fong General Hospital,,Singapore,34.95553,109.8585,,,2/9/2020
+41,female,No,No,No,No,No,No,Low,3,Ng Teng Fong General Hospital,,Singapore,22.65389,114.1291,,,1/21/2020
+27,male,No,No,No,No,No,No,Low,7,National Centre for Infectious Diseases,,Singapore,39.61984,112.6405,,,1/26/2020
+20,male,No,No,No,No,No,No,High,1,National Centre for Infectious Diseases,,Singapore,34.95553,109.8585,,,2/9/2020
+24,male,No,No,No,No,No,No,High,0,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+44,female,No,No,No,No,No,No,Low,7,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+54,male,No,No,No,No,No,No,Low,21,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+35,female,No,No,No,No,No,No,Low,14,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+57,female,No,No,No,No,No,No,Low,6,Ng Teng Fong General Hospital,,Singapore,36.35919,118.1603,,,2/8/2020
+70,male,No,No,No,No,No,No,Low,4,Singapore General Hospital,,Singapore,36.35919,118.1603,,,2/8/2020
+33,male,No,No,No,No,No,No,Low,5,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+43,male,No,No,No,No,No,No,Low,8,National University Hospital,,Singapore,36.35919,118.1603,,,2/8/2020
+33,female,No,No,No,No,No,No,Low,4,National University Hospital,,Singapore,36.35919,118.1603,,,2/8/2020
+55,male,No,No,No,No,No,No,Low,7,Alexandra Hospital,,Singapore,39.61984,112.6405,,,1/26/2020
+62,female,No,No,No,No,No,No,Low,3,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+54,female,No,No,No,No,No,No,Low,8,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+64,female,No,No,No,No,No,No,Low,2,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+47,male,No,No,No,No,No,No,Low,6,Sengkang General Hospital,,Singapore,36.35919,118.1603,,,2/8/2020
+37,female,No,No,No,No,No,No,High,0,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+65,female,No,No,No,No,No,No,High,0,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+77,male,No,No,No,No,No,No,Low,0,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+64,female,No,No,No,No,No,No,High,0,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+70,male,No,No,No,No,No,No,High,0,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/8/2020
+68,female,No,No,No,No,No,No,Low,2,Ng Teng Fong General Hospital,,Singapore,36.35919,118.1603,,,2/8/2020
+66,male,No,No,No,No,No,No,Low,9,Ng Teng Fong General Hospital,,Singapore,27.51128,116.4344,,,1/26/2020
+66,male,No,No,No,No,No,No,Low,3,Ng Teng Fong General Hospital,,Singapore,36.35919,118.1603,,,2/14/2020
+37,female,No,No,No,No,No,No,Low,5,National University Hospital,,Singapore,36.35919,118.1603,,,2/14/2020
+62,female,No,No,No,No,No,No,Low,6,National University Hospital,,Singapore,36.35919,118.1603,,,2/14/2020
+56,female,No,No,No,No,No,No,Low,7,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/14/2020
+40,male,No,No,No,No,No,No,Low,8,Singapore General Hospital,,Singapore,36.35919,118.1603,,,2/14/2020
+36,male,No,No,No,No,No,No,High,0,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/14/2020
+60,male,No,No,No,No,No,No,High,1,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/14/2020
+0,,No,No,No,No,No,No,Low,10,Anoka County,Minnesota,United States,36.35919,118.1603,,,2/15/2020
+30,,No,No,No,No,No,No,Low,4,Ramsey County,Minnesota,United States,36.35919,118.1603,,,2/15/2020
+50,,No,No,No,No,No,No,Low,4,Olmsted County,Minnesota,United States,36.35919,118.1603,,,2/15/2020
+71,male,No,No,No,No,No,No,Low,3,Ng Teng Fong General Hospital,,Singapore,26.97535,114.8248,,,1/26/2020
+62,female,No,No,No,No,No,No,Low,7,Ng Teng Fong General Hospital,,Singapore,36.35919,118.1603,,,2/15/2020
+69,male,No,No,No,No,No,No,Low,5,Ng Teng Fong General Hospital,,Singapore,36.35919,118.1603,,,2/15/2020
+26,male,No,No,No,No,No,No,High,1,Ng Teng Fong General Hospital,,Singapore,36.35919,118.1603,,,2/15/2020
+42,male,No,No,No,No,No,No,High,1,National University Hospital,,Singapore,36.35919,118.1603,,,2/15/2020
+58,female,No,No,No,No,No,No,Low,4,Ng Teng Fong General Hospital,,Singapore,36.35919,118.1603,,,2/16/2020
+67,female,No,No,No,No,No,No,Low,7,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/16/2020
+64,female,No,No,No,No,No,No,Low,3,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/16/2020
+64,male,No,No,No,No,No,No,Low,4,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/16/2020
+67,female,No,No,No,No,No,No,Low,7,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/14/2020
+62,male,No,No,No,No,No,No,Low,13,National Centre for Infectious Diseases,,Singapore,36.35919,118.1603,,,2/14/2020
+53,female,No,No,No,No,No,No,Low,7,National Centre for Infectious Diseases,,Singapore,29.30999,117.2708,,,1/26/2020
+40,female,No,No,No,No,No,No,Low,0,Clark County,Nevada,United States,36.35919,118.1603,,,2/14/2020
+51,male,No,No,No,No,No,No,Low,0,,,Singapore,36.35919,118.1603,,,2/14/2020
+65,male,No,No,No,No,No,No,Low,8,Singapore General Hospital,,Singapore,31.2045,121.4555,,,2/8/2020
+65,female,No,No,No,No,No,No,Low,4,Singapore General Hospital,,Singapore,31.2045,121.4555,,,2/8/2020
+52,male,No,No,No,No,No,No,High,0,National Centre for Infectious Diseases,,Singapore,31.2045,121.4555,,,2/8/2020
+47,female,No,No,No,No,No,No,Low,4,National Centre for Infectious Diseases,,Singapore,31.2045,121.4555,,,2/8/2020
+50,female,No,No,No,No,No,No,High,1,National Centre for Infectious Diseases,,Singapore,31.2045,121.4555,,,2/8/2020
+54,female,No,No,No,No,No,No,High,0,National Centre for Infectious Diseases,,Singapore,31.2045,121.4555,,,2/8/2020
+53,female,No,No,No,No,No,No,Low,3,Ng Teng Fong General Hospital,,Singapore,31.2045,121.4555,,,2/8/2020
+59,male,No,No,No,No,No,No,Low,3,Ng Teng Fong General Hospital,,Singapore,31.2045,121.4555,,,2/8/2020
+73,male,No,No,No,No,No,No,Low,3,National Centre for Infectious Diseases,,Singapore,29.3255,115.4418,,,1/26/2020
+28,male,No,No,No,No,No,No,Low,2,National Centre for Infectious Diseases,,Singapore,31.08938,121.414,,,2/8/2020
+28,male,Yes,Yes,No,No,Yes,No,Low,0,Jung,Ulsan,South Korea,31.08938,121.414,,,2/8/2020
+62,female,No,No,No,No,No,No,Low,0,Dong,Ulsan,South Korea,31.01539,121.2152,,,2/8/2020
+21,male,No,No,No,No,No,No,Low,7,Nam,Ulsan,South Korea,31.35979,121.2389,,,2/9/2020
+40,female,No,No,No,No,No,No,Low,0,Saerom-dong,Sejong,South Korea,31.10622,121.7257,,,2/6/2020
+20,female,No,No,No,No,No,No,Low,0,Dodam-dong,Sejong,South Korea,31.10622,121.7257,,,2/6/2020
+50,female,No,Yes,Yes,No,No,No,Low,0,Saerom-dong,Sejong,South Korea,31.10622,121.7257,,,2/6/2020
+40,female,Yes,No,No,No,No,No,Low,0,,Sejong,South Korea,31.35979,121.2389,,,2/6/2020
+40,female,No,No,No,Yes,Yes,No,Low,0,Areum-dong,Sejong,South Korea,31.16504,121.4345,,,2/6/2020
+50,male,No,No,Yes,No,No,No,Low,0,Hansol-dong,Sejong,South Korea,31.20946,121.3757,,,2/6/2020
+50,male,No,No,No,No,No,No,Low,0,Bangok-dong,Sejong,South Korea,29.3255,115.4418,,,1/26/2020
+13,female,No,Yes,No,Yes,No,No,Low,0,Bangok-dong,Sejong,South Korea,24.97854,98.96988,,,2/6/2020
+40,female,Yes,Yes,No,Yes,No,No,Low,0,Eun-dong,Sejong,South Korea,30.91111,121.5517,,,2/6/2020
+50,male,Yes,No,No,Yes,No,No,Low,0,Areum-dong,Sejong,South Korea,31.30158,121.5244,,,2/6/2020
+40,female,No,No,No,No,No,No,Low,0,Areum-dong,Sejong,South Korea,31.2045,121.4555,,,2/6/2020
+30,female,No,No,No,No,No,No,Low,0,Eun-dong,Sejong,South Korea,31.2045,121.4555,,,2/6/2020
+40,male,No,No,No,No,No,No,Low,0,Eun-dong,Sejong,South Korea,31.2045,121.4555,,,2/6/2020
+50,male,No,No,No,No,No,No,Low,0,Dodam-dong,Sejong,South Korea,31.2045,121.4555,,,2/15/2020
+40,male,No,No,No,No,No,No,Low,0,Areum-dong,Sejong,South Korea,31.2045,121.4555,,,2/15/2020
+40,male,No,No,No,No,No,No,Low,0,Areum-dong,Sejong,South Korea,31.2045,121.4555,,,2/16/2020
+30,male,No,No,No,No,No,No,Low,0,Janggun-myeon,Sejong,South Korea,31.2045,121.4555,,,2/16/2020
+40,male,No,No,No,No,No,No,Low,0,Eun-dong,Sejong,South Korea,28.66149,116.0257,,,1/26/2020
+40,male,No,No,No,No,No,No,Low,0,Eun-dong,Sejong,South Korea,31.2045,121.4555,,,2/16/2020
+25,female,No,No,No,No,No,No,Low,0,,South Jeolla,South Korea,37.62392,112.3012,,,2/8/2020
+22,male,No,No,No,No,No,No,Low,0,,South Jeolla,South Korea,37.62392,112.3012,,,2/8/2020
+36,female,No,No,No,No,No,No,Low,0,,South Jeolla,South Korea,37.62392,112.3012,,,2/8/2020
